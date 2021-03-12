@@ -79,7 +79,6 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  jekyll (~> 4.2.0)
   jekyll-feed (~> 0.12)
   jekyll-theme-chirpy
   tzinfo (~> 1.2)
