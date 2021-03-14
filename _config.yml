@@ -15,17 +15,17 @@ timezone: America/Denver
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: Zach Brewer                     # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Building and flying           # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Personal website for Zach Brewer.
+  Includes posts about flights and flying trips
+  along with the build log for CarbonCub N95ZB.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://zbrewer.com'
 
 author: Zach Brewer                     # change to your full name
 
@@ -33,11 +33,11 @@ github:
   username: zbrewer                     # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: zachbrewer                  # change to your twitter username
 
 social:
   name: Zach Brewer                     # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  email: contact@zbrewer.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username      # change to your twitter homepage
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: 'https://lh3.googleusercontent.com/R7qYnWIMTEjkNruzYKZUWvyP1I1o_3CCnjqqUIvAkw52rVTSDBpb9e4SzmGBa66hiqXnrO-vXF8umALJ-BKv8RTNi5DShhM3TW9E0hIHxuhwMjkazqFXJxxGcTPnYQEQ-3atBp6XBLU=w2400'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
