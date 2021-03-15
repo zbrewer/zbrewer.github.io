@@ -9,6 +9,8 @@ entries:
   - title: BUILD SUMMARY
     url: build_summary
 
+  - title: TEST
+
 - title: CATEGORIES
   url: categories
   icon: fas fa-stream

@@ -18,9 +18,9 @@
     <!-- the real tabs -->
     {% assign entry_index = 0 %}
     {% for entry in sidebar %}
+        {% assign page_url = page.url | remove: "/" %}
         {% if entry.url %}
             <!-- This is a direct nav link -->
-            {% assign page_url = page.url | remove: "/" %}
             <li class="nav-item{% if entry.url == page_url %}{{ " active" }}{% endif %}">
                 <a href="{{ entry.url | relative_url }}" class="nav-link">
                     <i class="fa-fw {{ entry.icon }} ml-xl-3 mr-xl-3 unloaded"></i>
@@ -41,11 +41,13 @@
                 <div class="nav-sub-folder">
                     <div id="{{ NAV_LIST_PREFIX }}{{ entry_index }}" class="collapse" aria-expanded="false">
                         <ul class="nav-sub-folder-contents">
-                            <li class="nav-item">
-                                <a class="nav-link">
-                                    <span>{{"Test" | upcase}}</span>
+                            {% for item in entry.folderitems %}
+                            <li class="nav-item{% if item.url == page_url %}{{ " active" }}{% endif %}">
+                                <a href="{{ item.url | relative_url }}" class="nav-link">
+                                    <span>{{ item.title | upcase }}</span>
                                 </a>
                             </li>
+                            {% endfor %}
                         </ul>
                     </div>
                 </div>
