@@ -9,7 +9,8 @@ entries:
   - title: BUILD SUMMARY
     url: build_summary
 
-  - title: TEST
+  - title: BUILD_TIMELINE
+    url: build_timeline
 
 - title: CATEGORIES
   url: categories
