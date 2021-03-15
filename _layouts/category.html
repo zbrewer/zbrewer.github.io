@@ -3,24 +3,33 @@ layout: page
 # The Category layout
 ---
 
-{% assign non_build_posts = '' | split: '' %}
+{% assign build_log_posts = '' | split: '' %}
+{% assign non_build_log_posts = '' | split: '' %}
 {% for post in page.posts %}
   {% if post.layout != "build_log_post" %}
-    {% assign non_build_posts = non_build_posts | push: post %}
+    {% assign non_build_log_posts = non_build_log_posts | push: post %}
+  {% else %}
+    {% assign build_log_posts = build_log_posts | push: post %}
   {% endif %}
 {% endfor %}
+
+{% if page.posts[0].categories[0] == "Carbon Cub Build" %}
+  {% assign posts = build_log_posts %}
+{% else %}
+  {% assign posts = non_build_log_posts %}
+{% endif %}
 
 <div id="page-category">
   <h1 class="pl-lg-2">
     <i class="far fa-folder-open fa-fw text-muted"></i>
     {{ page.title }}
-    <span class="lead text-muted pl-2">{{ non_build_posts | size }}</span>
+    <span class="lead text-muted pl-2">{{ posts | size }}</span>
   </h1>
 
   <ul class="post-content pl-0">
     {% assign post_long_df = site.data.date_format.post.long | default: '%b %e, %Y' %}
 
-    {% for post in non_build_posts %}
+    {% for post in posts %}
     <li class="d-flex justify-content-between pl-md-3 pr-md-3">
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       <span class="dash flex-grow-1"></span>
