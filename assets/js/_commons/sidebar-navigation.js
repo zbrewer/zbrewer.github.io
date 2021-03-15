@@ -10,6 +10,7 @@ $(function() {
   /* close up top-category */
   collapse.on("hide.bs.collapse", function () { /* Bootstrap collapse events. */
     const parentId = parentPrefix + $(this).attr("id").substring(childPrefix.length);
+    // TODO: Prevent this from applying unless it's the right type of dropdown
     if (parentId) {
       $(`#${parentId} i.fas`).removeClass("sidebar-navigation-rotate");
     }

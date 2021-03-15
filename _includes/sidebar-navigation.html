@@ -37,12 +37,17 @@
                     <span>{{ entry.title | upcase }}</span>
                     <i class="fas fa-fw fa-angle-right"></i>
                 </a>
-                <div id="{{ NAV_LIST_PREFIX }}{{ entry_index }}" class="collapse" aria-expanded="false">
-                    <ul class="w-100">
-                        <li class="nav-item">
-                            <span>Test</span>
-                        </li>
-                    </ul>
+                <!-- Items in the folder -->
+                <div class="nav-sub-folder">
+                    <div id="{{ NAV_LIST_PREFIX }}{{ entry_index }}" class="collapse" aria-expanded="false">
+                        <ul class="nav-sub-folder-contents">
+                            <li class="nav-item">
+                                <a class="nav-link">
+                                    <span>{{"Test" | upcase}}</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
             </li> <!-- .nav-item -->
         {% endif %}
