@@ -26,7 +26,7 @@ layout: page
     {% for post in posts_of_category %}
       {% assign second_category = post.categories[1] %}
       {% if second_category %}
-        {% unless sub_categories contains second_category %}
+        {% unless sub_categories contains second_category or second_category == category_name %}
           {% assign sub_categories = sub_categories | push: second_category %}
         {% endunless %}
       {% endif %}
