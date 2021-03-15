@@ -9,8 +9,12 @@ layout: page
 {% for post in build_log_posts %}
   {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
   {% capture this_month %}{{ post.date | date: "%b" }}{% endcapture %}
-  {% capture pre_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
-  {% capture pre_month %}{{ post.previous.date | date: "%b" }}{% endcapture %}
+  {% capture this_day %}{{ post.date | date: "%d" }}{% endcapture %}
+
+  {% assign next_index = forloop.index0 | plus: 1 %}
+  {% assign next_year = build_log_posts[next_index].date | date: "%Y" %}
+  {% assign next_month = build_log_posts[next_index].date | date: "%b" %}
+
   {% if forloop.first %}
     {% assign last_day = "" %}
     {% assign last_month = "" %}
@@ -19,8 +23,6 @@ layout: page
   {% endif %}
     <li>
       <div>
-        {% capture this_day %}{{ post.date | date: "%d" }}{% endcapture %}
-        {% capture this_month %}{{ post.date | date: "%b" }}{% endcapture %}
         <span class="date day">{{ this_day }}</span>
         <span class="date month small text-muted">{{ this_month }}</span>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
@@ -28,9 +30,9 @@ layout: page
     </li>
   {% if forloop.last %}
   </ul>
-  {% elsif this_year != pre_year or this_month != pre_month %}
+  {% elsif this_year != next_year or this_month != next_month %}
   </ul>
-  <span class="lead">{{pre_month}} {{pre_year}}</span>
+  <span class="lead">{{next_month}} {{next_year}}</span>
   <ul class="list-unstyled">
     {% assign last_day = "" %}
     {% assign last_month = "" %}
