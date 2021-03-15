@@ -31,14 +31,13 @@
           {% if item == 'posts' and page.layout == 'post' %}
             {% assign url = 'archives' %}
           {% elsif item == 'posts' and page.layout == 'build_log_post' %}
-            <!-- TODO: Link to the "Timeline" page for the build log -->
-            {% assign link_text = "Build Log" %}
-            {% assign url = 'archives' %}
+            {% assign link_text = "Build Timeline" %}
+            {% assign url = 'build_timeline' %}
           {% else %}
             {% assign url = item %}
           {% endif %}
           <a href="{{ url | relative_url }}">
-            {{ link_text | capitalize }}
+            {{ link_text | capitalize_all }}
           </a>
         </span>
 
