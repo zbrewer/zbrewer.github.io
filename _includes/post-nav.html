@@ -1,0 +1,55 @@
+<!--
+  Navigation buttons at the bottom of the post.
+-->
+
+{% assign current_layout = page.layout %}
+{% assign num_posts = site.posts | size %}
+{% assign previous_page = '' %}
+{% assign next_page = '' %}
+
+{% assign test_page = page.previous %}
+{% for i in (0..num_posts) %}
+  {% if test_page.layout == current_layout %}
+    {% assign previous_page = test_page %}
+    {% break %}
+  {% elsif test_page.previous %}
+    {% assign test_page = test_page.previous %}
+  {% endif %}
+{% endfor %}
+
+{% assign test_page = page.next %}
+{% for i in (0..num_posts) %}
+  {% if test_page.layout == current_layout %}
+    {% assign next_page = test_page %}
+    {% break %}
+  {% elsif test_page.next %}
+    {% assign test_page = test_page.next %}
+  {% endif %}
+{% endfor %}
+
+<div class="post-navigation d-flex justify-content-between">
+  {% if previous_page.url %}
+  <a href="{{ site.baseurl }}{{ previous_page.url }}" class="btn btn-outline-primary"
+    prompt="{{ site.data.label.post.button.previous | default: 'previous' }}">
+    <p>{{ previous_page.title }}</p>
+  </a>
+  {% else %}
+  <span class="btn btn-outline-primary disabled"
+    prompt="{{ site.data.label.post.button.previous | default: 'previous' }}">
+    <p>-</p>
+  </span>
+  {% endif %}
+
+  {% if next_page.url %}
+  <a href="{{ site.baseurl }}{{next_page.url}}" class="btn btn-outline-primary"
+    prompt="{{ site.data.label.post.button.next | default: 'next' }}">
+    <p>{{ next_page.title }}</p>
+  </a>
+  {% else %}
+  <span class="btn btn-outline-primary disabled"
+    prompt="{{ site.data.label.post.button.next | default: 'next' }}">
+    <p>-</p>
+  </span>
+  {% endif %}
+
+</div>
