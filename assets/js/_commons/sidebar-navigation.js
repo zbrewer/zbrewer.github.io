@@ -12,7 +12,7 @@ $(function() {
     const parentId = parentPrefix + $(this).attr("id").substring(childPrefix.length);
     const currentPrefix = $(this).attr("id").substring(0, childPrefix.length);
     if (parentId && currentPrefix === childPrefix) {
-      $(`#${parentId} i.fas`).removeClass("sidebar-navigation-rotate");
+      $(`#${parentId} i.nav-arrow`).removeClass("sidebar-navigation-rotate");
     }
   });
 
@@ -21,7 +21,7 @@ $(function() {
     const parentId = parentPrefix + $(this).attr("id").substring(childPrefix.length);
     const currentPrefix = $(this).attr("id").substring(0, childPrefix.length);
     if (parentId && currentPrefix === childPrefix) {
-      $(`#${parentId} i.fas`).addClass("sidebar-navigation-rotate");
+      $(`#${parentId} i.nav-arrow`).addClass("sidebar-navigation-rotate");
     }
   });
 
