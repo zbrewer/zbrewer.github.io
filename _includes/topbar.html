@@ -16,11 +16,9 @@
       {% for item in paths %}
 
         {% if forloop.first %}
-          {% unless page.layout == 'post' %}
           <span>
             <a href="{{ '/' | relative_url }}">{{ 'Home' }}</a>
           </span>
-          {% endunless %}
 
         {% elsif forloop.last %}
           <span>{{ page.title }}</span>
