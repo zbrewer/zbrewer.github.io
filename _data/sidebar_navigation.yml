@@ -1,0 +1,26 @@
+# Layout for the main navigation sidebar.
+
+entries:
+# A "HOME" tab is always included first
+
+- title: CARBON CUB BUILD
+  icon: fas fa-plane
+  folderitems:
+  - title: BUILD SUMMARY
+    url: build_summary
+
+- title: CATEGORIES
+  url: categories
+  icon: fas fa-stream
+
+- title: ARCHIVES
+  url: archives
+  icon: fas fa-archive
+
+- title: TAGS
+  url: tags
+  icon: fas fa-tags
+
+- title: ABOUT
+  url: about
+  icon: fas fa-info

@@ -1,0 +1,52 @@
+<!--
+    Main sidebar navigation
+-->
+
+{% assign NAV_LIST_PREFIX = "n_" %}
+{% assign FOLDER_TRIGGER_PREFIX = "f_" %}
+
+{% assign sidebar = site.data.sidebar_navigation.entries %}
+
+<ul class="w-100">
+    <!-- home -->
+    <li class="nav-item{% if page.layout == 'home' %}{{ " active" }}{% endif %}">
+      <a href="{{ '/' | relative_url }}" class="nav-link">
+        <i class="fa-fw fas fa-home ml-xl-3 mr-xl-3 unloaded"></i>
+        <span>{{ "HOME" }}</span>
+      </a>
+    </li>
+    <!-- the real tabs -->
+    {% assign entry_index = 0 %}
+    {% for entry in sidebar %}
+        {% if entry.url %}
+            <!-- This is a direct nav link -->
+            {% assign page_url = page.url | remove: "/" %}
+            <li class="nav-item{% if entry.url == page_url %}{{ " active" }}{% endif %}">
+                <a href="{{ entry.url | relative_url }}" class="nav-link">
+                    <i class="fa-fw {{ entry.icon }} ml-xl-3 mr-xl-3 unloaded"></i>
+                    <span>{{ entry.title | upcase }}</span>
+                </a>
+            </li> <!-- .nav-item -->
+        {% else %}
+            <!-- This is a folder -->
+            <li class="nav-item" id="{{ FOLDER_TRIGGER_PREFIX }}{{ entry_index }}">
+                <a href="#{{ NAV_LIST_PREFIX }}{{ entry_index }}" data-toggle="collapse" aria-expanded="false"
+                aria-label="{{ FOLDER_TRIGGER_PREFIX }}{{ entry_index }}-trigger"
+                class="nav-link sidebar-navigation-trigger">
+                    <i class="fa-fw {{ entry.icon }} ml-xl-3 mr-xl-3 unloaded"></i>
+                    <span>{{ entry.title | upcase }}</span>
+                    <i class="fas fa-fw fa-angle-right"></i>
+                </a>
+                <div id="{{ NAV_LIST_PREFIX }}{{ entry_index }}" class="collapse" aria-expanded="false">
+                    <ul class="w-100">
+                        <li class="nav-item">
+                            <span>Test</span>
+                        </li>
+                    </ul>
+                </div>
+            </li> <!-- .nav-item -->
+        {% endif %}
+        {% assign entry_index = entry_index | plus: 1 %}
+    {% endfor %}
+
+  </ul> <!-- ul.nav.flex-column -->
