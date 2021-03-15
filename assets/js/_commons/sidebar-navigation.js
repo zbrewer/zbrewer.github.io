@@ -10,8 +10,8 @@ $(function() {
   /* close up top-category */
   collapse.on("hide.bs.collapse", function () { /* Bootstrap collapse events. */
     const parentId = parentPrefix + $(this).attr("id").substring(childPrefix.length);
-    // TODO: Prevent this from applying unless it's the right type of dropdown
-    if (parentId) {
+    const currentPrefix = $(this).attr("id").substring(0, childPrefix.length);
+    if (parentId && currentPrefix === childPrefix) {
       $(`#${parentId} i.fas`).removeClass("sidebar-navigation-rotate");
     }
   });
@@ -19,7 +19,8 @@ $(function() {
   /* expand the top category */
   collapse.on("show.bs.collapse", function() {
     const parentId = parentPrefix + $(this).attr("id").substring(childPrefix.length);
-    if (parentId) {
+    const currentPrefix = $(this).attr("id").substring(0, childPrefix.length);
+    if (parentId && currentPrefix === childPrefix) {
       $(`#${parentId} i.fas`).addClass("sidebar-navigation-rotate");
     }
   });
