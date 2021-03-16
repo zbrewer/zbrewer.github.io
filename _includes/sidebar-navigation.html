@@ -29,6 +29,37 @@
             </li> <!-- .nav-item -->
         {% else %}
             <!-- This is a folder -->
+            {% assign active_folder = false %}
+            {% for item in entry.folderitems %}
+                {% if item.url == page_url %}
+                    {% assign active_folder = true %}
+                {% endif %}
+            {% endfor %}
+            
+            {% if active_folder %}
+            <li class="nav-item" id="{{ FOLDER_TRIGGER_PREFIX }}{{ entry_index }}">
+                <a href="#{{ NAV_LIST_PREFIX }}{{ entry_index }}" data-toggle="collapse" aria-expanded="true"
+                aria-label="{{ FOLDER_TRIGGER_PREFIX }}{{ entry_index }}-trigger"
+                class="nav-link sidebar-navigation-trigger">
+                    <i class="fa-fw {{ entry.icon }} ml-xl-3 mr-xl-3 unloaded"></i>
+                    <span>{{ entry.title | upcase }}</span>
+                    <i class="fas fa-fw fa-angle-right nav-arrow sidebar-navigation-rotate"></i>
+                </a>
+                <!-- Items in the folder -->
+                <div class="nav-sub-folder">
+                    <div id="{{ NAV_LIST_PREFIX }}{{ entry_index }}" class="collapse show" aria-expanded="true">
+                        <ul class="nav-sub-folder-contents">
+                            {% for item in entry.folderitems %}
+                            <li class="nav-item{% if item.url == page_url %}{{ " active" }}{% endif %}">
+                                <a href="{{ item.url | relative_url }}" class="nav-link">
+                                    <span>{{ item.title | upcase }}</span>
+                                </a>
+                            </li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                </div>
+            {% else %}
             <li class="nav-item" id="{{ FOLDER_TRIGGER_PREFIX }}{{ entry_index }}">
                 <a href="#{{ NAV_LIST_PREFIX }}{{ entry_index }}" data-toggle="collapse" aria-expanded="false"
                 aria-label="{{ FOLDER_TRIGGER_PREFIX }}{{ entry_index }}-trigger"
@@ -51,6 +82,7 @@
                         </ul>
                     </div>
                 </div>
+                {% endif %}
             </li> <!-- .nav-item -->
         {% endif %}
         {% assign entry_index = entry_index | plus: 1 %}
