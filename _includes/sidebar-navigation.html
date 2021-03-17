@@ -37,29 +37,35 @@
             {% endfor %}
             
             <li class="nav-item" id="{{ FOLDER_TRIGGER_PREFIX }}{{ entry_index }}">
-                <a href="#{{ NAV_LIST_PREFIX }}{{ entry_index }}" data-toggle="collapse"
-                aria-expanded="{% if active_folder %}{{true}}{% else %}{{false}}{% endif %}"
-                aria-label="{{ FOLDER_TRIGGER_PREFIX }}{{ entry_index }}-trigger"
-                class="nav-link sidebar-navigation-trigger">
-                    <i class="fa-fw {{ entry.icon }} ml-xl-3 mr-xl-3 unloaded"></i>
-                    <span>{{ entry.title | upcase }}</span>
-                    <i class="fas fa-fw fa-angle-right nav-arrow{% if active_folder %}{{ " sidebar-navigation-rotate" }}{% endif %}"></i>
-                </a>
-                <!-- Items in the folder -->
-                <div class="nav-sub-folder">
-                    <div id="{{ NAV_LIST_PREFIX }}{{ entry_index }}"
-                         class="collapse{% if active_folder %}{{ " show" }}{% endif %}"
-                         aria-expanded="{% if active_folder %}{{true}}{% else %}{{false}}{% endif %}">
-                        <ul class="nav-sub-folder-contents">
-                            {% for item in entry.folderitems %}
-                            <li class="nav-item{% if item.url == page_url %}{{ " active" }}{% endif %}">
-                                <a href="{{ item.url | relative_url }}" class="nav-link">
-                                    <span>{{ item.title | upcase }}</span>
-                                </a>
-                            </li>
-                            {% endfor %}
-                        </ul>
-                    </div>
+                <div>
+                    <table>
+                        <tr>
+                            <a href="#{{ NAV_LIST_PREFIX }}{{ entry_index }}" data-toggle="collapse"
+                            aria-expanded="{% if active_folder %}{{true}}{% else %}{{false}}{% endif %}"
+                            aria-label="{{ FOLDER_TRIGGER_PREFIX }}{{ entry_index }}-trigger"
+                            class="nav-link sidebar-navigation-trigger">
+                                <i class="fa-fw {{ entry.icon }} ml-xl-3 mr-xl-3 unloaded"></i>
+                                <span>{{ entry.title | upcase }}</span>
+                                <i class="fas fa-fw fa-angle-right nav-arrow{% if active_folder %}{{ " sidebar-navigation-rotate" }}{% endif %}"></i>
+                            </a>
+                        </tr>
+                        <!-- Items in the folder -->
+                        <tr>
+                            <div id="{{ NAV_LIST_PREFIX }}{{ entry_index }}"
+                                class="collapse{% if active_folder %}{{ " show" }}{% endif %}"
+                                aria-expanded="{% if active_folder %}{{true}}{% else %}{{false}}{% endif %}">
+                                <ul class="nav-sub-folder-contents">
+                                    {% for item in entry.folderitems %}
+                                    <li class="nav-item{% if item.url == page_url %}{{ " active" }}{% endif %}">
+                                        <a href="{{ item.url | relative_url }}" class="nav-link">
+                                            <span>{{ item.title | upcase }}</span>
+                                        </a>
+                                    </li>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                        </tr>
+                    </table>
                 </div>
             </li> <!-- .nav-item -->
         {% endif %}
