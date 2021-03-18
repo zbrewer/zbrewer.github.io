@@ -21,7 +21,7 @@
         {% assign page_url = page.url | remove: "/" %}
         {% if entry.url %}
             <!-- This is a direct nav link -->
-            <li class="nav-item{% if entry.url == page_url %}{{ " active" }}{% endif %}">
+            <li class="nav-item top-level-nav-item{% if entry.url == page_url %}{{ " active" }}{% endif %}">
                 <a href="{{ entry.url | relative_url }}" class="nav-link">
                     <i class="fa-fw {{ entry.icon }} ml-xl-3 mr-xl-3 unloaded"></i>
                     <span>{{ entry.title | upcase }}</span>
@@ -36,7 +36,7 @@
                 {% endif %}
             {% endfor %}
             
-            <li class="nav-item" id="{{ FOLDER_TRIGGER_PREFIX }}{{ entry_index }}">
+            <li class="nav-item top-level-nav-item" id="{{ FOLDER_TRIGGER_PREFIX }}{{ entry_index }}">
                 <div>
                     <div>
                         <a href="#{{ NAV_LIST_PREFIX }}{{ entry_index }}" data-toggle="collapse"

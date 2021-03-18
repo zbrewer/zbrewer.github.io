@@ -691,7 +691,7 @@ $sidebar-display: "sidebar-display";
     margin-bottom: 2rem;
     padding-left: 0;
 
-    li {
+    li.top-level-nav-item {
       width: 100%;
 
       &:last-child {
