@@ -1,0 +1,8 @@
+---
+---
+
+// see: /_sass/addon/commons.scss
+{% assign sidebar = site.data.sidebar_navigation.entries %}
+$tab-count: {{ sidebar | size | plus: 1 }}; // plus 1 for home tab
+
+@import "jekyll-theme-chirpy";
