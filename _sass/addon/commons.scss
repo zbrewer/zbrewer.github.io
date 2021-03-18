@@ -721,6 +721,9 @@ $sidebar-display: "sidebar-display";
     .nav-sub-folder-contents {
       height: auto;
       margin-bottom: auto;
+      padding-left: 0px;
+      margin-left: 2.7rem;
+      border-left: 1px solid rgba(255,255,255,0.5);
     }
 
     @mixin fix-cursor($top) {
