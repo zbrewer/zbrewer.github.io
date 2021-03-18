@@ -668,17 +668,17 @@ $sidebar-display: "sidebar-display";
     letter-spacing: 1px;
     display: table-cell;
     vertical-align: middle;
+    &:hover {
+      .nav-link {
+        color: #f8f9facf;
+      }
+    }
   }
 
   .nav-item {
     text-align: center;
     display: table;
     height: $tab-height;
-    &:hover {
-      .nav-link {
-        color: #f8f9facf;
-      }
-    }
     &.active {
       .nav-link {
         color: #fcfcfc;
