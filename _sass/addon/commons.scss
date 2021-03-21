@@ -676,9 +676,11 @@ $sidebar-display: "sidebar-display";
   }
 
   .nav-item {
-    text-align: center;
+    text-align: left;
     display: table;
     height: $tab-height;
+    width: 100%;
+    padding-left: 1rem;
     &.active {
       .nav-link {
         color: #fcfcfc;
@@ -722,7 +724,7 @@ $sidebar-display: "sidebar-display";
       height: auto;
       margin-bottom: auto;
       padding-left: 0px;
-      margin-left: 2.7rem;
+      margin-left: 1rem;
       border-left: 1px solid rgba(255,255,255,0.5);
     }
 
@@ -1562,6 +1564,10 @@ $sidebar-display: "sidebar-display";
         }
 
       }
+    }
+
+    .nav-sub-folder-contents {
+      margin-left: 2.65rem !important;
     }
 
     .nav-arrow {
