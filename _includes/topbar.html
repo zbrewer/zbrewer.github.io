@@ -30,10 +30,10 @@
             {% assign url = 'archives' %}
           {% elsif item == 'posts' and page.layout == 'build_log_post' %}
             {% assign link_text = "Build Timeline" %}
-            {% assign url = 'build_timeline' %}
+            {% assign url = 'n95zb_build_timeline' %}
           {% elsif item == 'categories' and page.posts[0].categories[0] == "Carbon Cub Build" %}
             {% assign link_text = "Build Categories" %}
-            {% assign url = 'build_categories' %}
+            {% assign url = 'n95zb_build_categories' %}
           {% else %}
             {% assign url = item %}
           {% endif %}
