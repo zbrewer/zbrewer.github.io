@@ -7,13 +7,13 @@ entries:
   icon: fas fa-plane
   folderitems:
   - title: BUILD SUMMARY
-    url: build_summary
+    url: n95zb_build
 
   - title: BUILD TIMELINE
-    url: build_timeline
+    url: n95zb_build_timeline
 
   - title: BUILD CATEGORIES
-    url: build_categories
+    url: n95zb_build_categories
 
 - title: CATEGORIES
   url: categories
