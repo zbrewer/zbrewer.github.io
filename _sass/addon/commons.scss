@@ -705,7 +705,8 @@ $sidebar-display: "sidebar-display";
           width: 100%;
         }
 
-        &::after { // the cursor
+        // The cursor
+        /* &::after {
           display: table;
           visibility: hidden;
           content: "";
@@ -716,7 +717,7 @@ $sidebar-display: "sidebar-display";
           border-radius: 1px;
           background-color: var(--nav-cursor-color);
           pointer-events: none;
-        }
+        } */
       }
     } // li
 
