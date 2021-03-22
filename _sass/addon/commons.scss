@@ -689,7 +689,7 @@ $sidebar-display: "sidebar-display";
   }
 
   ul {
-    height: $tab-height * $tab-count;
+    height: calc($tab-height * var(--tab-count));
     margin-bottom: 2rem;
     padding-left: 0;
 

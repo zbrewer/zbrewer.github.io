@@ -2,7 +2,21 @@
 ---
 
 // see: /_sass/addon/commons.scss
-{% assign sidebar = site.data.sidebar_navigation.entries %}
-$tab-count: {{ sidebar | size | plus: 1 }}; // plus 1 for home tab
+:root {
+    {% assign sidebar = site.data.sidebar_navigation.entries %}
+
+    {% assign build_folder = '' %}
+    {% for entry in sidebar %}
+        {% if entry.title == 'N95ZB BUILD' %}
+            {% assign build_folder = entry %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+
+    $tab-count: {{ sidebar | size | plus: 1 }}; // plus 1 for home tab
+    --top-level-tab-count: {{ sidebar | size | plus: 1 }}; // plus 1 for home tab
+    --plane-build-tab-count: {{ build_folder.folderitems | size}};
+    --tab-count: {{ sidebar | size | plus: 1 }}; // plus 1 for home tab
+}
 
 @import "jekyll-theme-chirpy";
