@@ -1,7 +1,6 @@
 ---
 layout: page
 title: N95ZB Build
-comments: true
 ---
 
 {% assign build_posts = site.posts | where_exp: "item", "item.layout == 'build_log_post'"  %}
