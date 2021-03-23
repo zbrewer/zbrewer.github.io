@@ -29,16 +29,16 @@
           {% if item == 'posts' and page.layout == 'post' %}
             {% assign url = 'archives' %}
           {% elsif item == 'posts' and page.layout == 'build_log_post' %}
-            {% assign link_text = "Build Timeline" %}
+            {% assign link_text = "N95ZB Build Timeline" %}
             {% assign url = 'n95zb_build_timeline' %}
           {% elsif item == 'categories' and page.posts[0].categories[0] == "Carbon Cub Build" %}
-            {% assign link_text = "Build Categories" %}
+            {% assign link_text = "N95ZB Build Categories" %}
             {% assign url = 'n95zb_build_categories' %}
           {% else %}
             {% assign url = item %}
           {% endif %}
           <a href="{{ url | relative_url }}">
-            {{ link_text | capitalize_all }}
+            {{ link_text }}
           </a>
         </span>
 
