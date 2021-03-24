@@ -8,12 +8,11 @@ tags: [workshop, garage, preparation, air, pneumatic, camera, insulation, lighti
 
 It's shipping day! My EX2 kit (wings and fuselage) officially left Yakima, WA today and are enroute to Colorado! It looks like shipping is going to take about a week with delivery currently slated for March 30th. While I'm waiting for it to arrive I thought it would be a good idea to summarize the work I did to prepare the workshop for building.
 
+A lot of time went into this work shop preparation; however, it wasn't directly part of the plane build-process and I didn't keep good records of the time spent so I'm not including it in the total number of hours.
+
 ## Starting Point
 
 I'm using my detached 2-car garage as the workshop for the cub build. When I bought the house, about a year and a half ago, the garage was unfinished with a single 15A, 120V circuit, no insulation, and a bare concrete floor.
-
-![Desktop View](https://lh3.googleusercontent.com/t1bmqLBIBy5_fpEQs9hfMUMxegjVIXdUUdIzvrC6J29ceQfkAYrW7vZpCm-mmFM2AzeNBXum5ecMNCrWpXx47rSynGvRy9q-KQr8kyrC1zWdLwMiRliyEcd-EmuPP7t44Cgcdy-Dzk8=w2400)
-_The garage before I started_
 
 I wanted to be able to work year-round and Colorado winters can get quite cold so I knew I would need some insulation and heat at the very least. I also knew that I would need some more light so that I could see what I was working on. Finally, I knew I would be spending a lot of time in the workshop while building the plane so I wanted it to be comfortable and somewhere I enjoyed being.
 
