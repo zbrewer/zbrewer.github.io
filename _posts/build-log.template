@@ -1,0 +1,9 @@
+---
+layout: build_log_post
+title:  "Title Here"
+hours: 2.3
+date:   2021-03-23 12:00:00 -0700
+categories: [Carbon Cub Build, Category 1, Category 2]
+tags: [tag1, tag2]
+---
+Content goes here.
