@@ -7,7 +7,7 @@ categories: [Carbon Cub Build, Workshop]
 tags: [sawhorses, preparation]
 ---
 
-One of the first steps in the wing manual is building a couple of sawhorses which are used to hold the wings during construction. The manual gives a basic design for these although it mentions that they don't have to be built exactly as drawn. The most important things are that they are sturdy, strong, a comfortable working height, and that the top is roughly the correct dimensions.
+One of the first steps in the wing manual is building a couple of sawhorses which are used to hold the wings during construction. The manual gives a basic design for these[^wing-manual-ref] although it mentions that they don't have to be built exactly as drawn. The most important things are that they are sturdy, strong, a comfortable working height, and that the top is roughly the correct dimensions.
 
 Craig and I decided to work on building the sawhorses together and we opted to follow the plans with minimal modifications (Craig decided to make his slightly taller). We met at Home Depot after work today to purchase the materials and then went to his shop to build them (he has a table saw and a few other tools that seemed like they would be useful). We used standard dimensional lumber for most pieces but decided to use prime pine boards for the tops and the top supports since we were having trouble finding boards that weren't warped.
 
@@ -23,3 +23,5 @@ _Marking the end plate on the plywood_
 
 ![Desktop View](/assets/img/posts/2021-03-24-sawhorses-1/end_plate.png)
 _The first end plate cut out_
+
+[^wing-manual-ref]: Wing Manual (Extended Fuel), CCEX-004 Rev. 2.02, Page 26
