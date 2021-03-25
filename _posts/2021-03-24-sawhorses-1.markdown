@@ -1,0 +1,25 @@
+---
+layout: build_log_post
+title:  "Sawhorses - Part 1"
+hours: 2.5
+date:   2021-03-24 22:00:00 -0700
+categories: [Carbon Cub Build, Workshop]
+tags: [sawhorses, preparation]
+---
+
+One of the first steps in the wing manual is building a couple of sawhorses which are used to hold the wings during construction. The manual gives a basic design for these although it mentions that they don't have to be built exactly as drawn. The most important things are that they are sturdy, strong, a comfortable working height, and that the top is roughly the correct dimensions.
+
+Craig and I decided to work on building the sawhorses together and we opted to follow the plans with minimal modifications (Craig decided to make his slightly taller). We met at Home Depot after work today to purchase the materials and then went to his shop to build them (he has a table saw and a few other tools that seemed like they would be useful). We used standard dimensional lumber for most pieces but decided to use prime pine boards for the tops and the top supports since we were having trouble finding boards that weren't warped.
+
+Once we got the materials to Craig's shop the next step was cutting all of the boards to size. Since we were making a lot of repeated cuts (18 legs, 8 horizontal supports, 4 tops, 4 top supports, etc). This part went pretty quickly.
+
+![Desktop View](/assets/img/posts/2021-03-24-sawhorses-1/cutting_boards.png)
+_Cutting the boards to length on the table saw_
+
+After the boards were cut we had to figure out how to cut the end plates out of 1/2" plywood. I drew the pattern on the plywood using a combination square and Craig cut it out using a jigsaw. At this point it was getting a little late since we started after work and had to shop for all of the supplies. We decided to call it a night and finish up later in the week. All that we have left to do is cut out the remaining 7 end plates (should be faster now that we can use the first one as a template) and screw together the sawhorses.
+
+![Desktop View](/assets/img/posts/2021-03-24-sawhorses-1/marking_end_cap.png)
+_Marking the end plate on the plywood_
+
+![Desktop View](/assets/img/posts/2021-03-24-sawhorses-1/end_plate.png)
+_The first end plate cut out_
