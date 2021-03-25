@@ -49,7 +49,7 @@ _Outlet controlled by the new switch_
 
 I obviously also needed a work bench not just for the plane but also for other projects. My uncle had given me a commercial door core several years ago to use as a bench top along with another core cut in half to use as legs. Now that I finally had the space I was able to put it together.
 
-I wanted to build a sturdy frame with a stong shelf below and casters so it could roll around the shop. I used 2x4s to attach the legs and create a strong box as a base. The boards on the top are set back several inches from the front of the bench to allow for clamping to the bench top.
+I wanted to build a sturdy frame with a strong shelf below and casters so it could roll around the shop. I used 2x4s to attach the legs and create a strong box as a base. The boards on the top are set back several inches from the front of the bench to allow for clamping to the bench top.
 
 ![Desktop View](https://lh3.googleusercontent.com/DsjVO5JgXJzOjtwAn6ZdoEVKQDGEZ5iTqzidAe0fB_0esc5Sj4sPt3jNJYsr3M5vuUW3_FfiF-SrigVEs0OjeGEDIuVWcQyJHcdswL3DmDIP42e4uFN4-W4RdwmMgefCu-K-_5DKKpg=w2400)
 _The bench without the top attached_
