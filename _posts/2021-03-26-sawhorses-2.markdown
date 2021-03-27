@@ -1,0 +1,34 @@
+---
+layout: build_log_post
+title:  "Sawhorses - Part 2"
+hours: 4
+date:   2021-03-26 22:00:00 -0700
+categories: [Carbon Cub Build, Workshop]
+tags: [sawhorses, preparation]
+---
+Today I went back over to Craig's place and we finished building the sawhorses. There was a bit more lumber to cut (the rest of the end plates and a few pieces of dimensional lumber to trim) and then assembly of the sawhorses.
+
+![Desktop View](/assets/img/posts/2021-03-26-sawhorses-2/cut_lumber.png)
+_Lumber all cut_
+
+We started by attaching the end plates for each sawhorse to the piece that runs the length of the sawhorse and supports the top using primarily 1 5/8" screws (a few 3" screws where the shorter ones didn't catch well). We then attached the legs to the endplates using a few 1 5/8" screws. All of this was done with the sawhorse resting across a table so that the legs were off the ground.
+
+![Desktop View](/assets/img/posts/2021-03-26-sawhorses-2/legs_attached.png)
+_Legs attached_
+
+After these steps were completed for all of the sawhorses we attached the horizontal pieces that run from leg-to-leg using 1 1/4" screws. These added a lot of stability. We also attached the tops by screwing them down from above using 1 5/8" screws (and recessing the screws a bit). Finally, we added a few additional 3" screws into the endplates and a few 2" screws into the top of the legs for good measure.
+
+![Desktop View](/assets/img/posts/2021-03-26-sawhorses-2/finished_sawhorse.png)
+_Completed sawhorse_
+
+We took our time with this project since we weren't sure how precise the sawhorses needed to be and what parts were critical. We discovered that the end plates are very important to the structure of the sawhorses and that we were probably aiming for more precision than necessary. That being said, the sawhorses came out great! They are very sturdy with almost no wobble and look good too! We also spent a fair amount of time discussing how to attach an after cooler to the compressor and planning for the build in general which took some time.
+
+I was able to fit both sawhorses in the back out my Subaru Outback whose cargo capacity continues to surprise me. It did require nesting them a bit but they fit no problem.
+
+![Desktop View](/assets/img/posts/2021-03-26-sawhorses-2/transporting_sawhorses.png)
+_Completed sawhorse_
+
+The sawhorses are not set up in my shop and look really good! They still need to be placed precisely and leveled but are ready for use other than that. 
+
+![Desktop View](/assets/img/posts/2021-03-26-sawhorses-2/sawhorses_in_workshop.png)
+_Sawhorses in my shop_
