@@ -20,7 +20,7 @@ const getInitStatus = (function () {
 const PvOpts = (function () {
   return {
     isEnabled() {
-      return "true" === $("meta[name=pv-cache-enabled]").attr("content");
+      return "true" === $("meta[name=pv-cache]").attr("content");
     },
     getProxyEndpoint() {
       return $("meta[name=pv-proxy-endpoint]").attr("content");
