@@ -1,0 +1,23 @@
+---
+layout: build_log_post
+title:  "Unpacking - Day 1"
+hours: 3
+date:   2021-04-09 23:30:00 -0600
+categories: [Carbon Cub Build, Logistics]
+tags: [unpacking, organizing, inventory]
+---
+This evening after work I started unpacking the kit. I decided to open up all the boxes and do a complete inventory based on Dave Embry's suggestion in [his build tips](http://forum.cubcrafters.com/showthread.php/3266-Building-the-EX3-Tips-amp-Hints). This also seemed like a good idea since it would help prevent me from getting stuck down the road waiting on parts and I could try to make sure related parts were stored together and were easy to get to.
+
+I was a little unsure how to start at first but eventually got into a groove by working on a specific part of the kit (such as the extended fuel) and tackling one packing slip at a time. Each slip indicated which bundle or box it referenced so it was easy to find the corresponding parts. I double checked that was included and that the quantities were correct. The exception to this was checking the quantity of the very small and numerous parts since I assume it will be quick and easy for CubCrafters to get me any of those missing pieces when I run into problems (and I didn't want to try to count 75 tiny rivets).
+
+![Desktop View](/assets/img/posts/2021-04-09-unpacking-1/parts_bin.png)
+_Parts bin and packing slip_
+
+Since the packing slips made it easy to find the parts I was looking for, I decided to leave the parts in the boxes they were shipped in. That way I can just find the corresponding part number on the packing slip when I need to find a part and will know exactly what box to look in. A few parts were backordered and shipped separately so this also gave me an opportunity to place those parts in the correct boxes.
+
+![Desktop View](/assets/img/posts/2021-04-09-unpacking-1/parts_in_shed.png)
+_Parts in shed_
+
+As I finished up kit sections, I put all of the parts together in the shed to keep them out of the way and to try to make it easier to find things (the idea being that if all of the lighting parts are together then it is easier to find something lighting related since I know where to start looking). I'm hoping to finish putting all of the parts away tomorrow now that I have some idea of what I'm doing although I'm sure I'll need to reorganize at least once.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ch-nUnBeCQk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
