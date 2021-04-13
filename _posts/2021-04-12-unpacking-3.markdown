@@ -1,0 +1,9 @@
+---
+layout: build_log_post
+title:  "Unpacking - Day 3"
+hours: 0.5
+date:   2021-04-12 20:00:00 -0600
+categories: [Carbon Cub Build, Logistics]
+tags: [unpacking, organizing, inventory]
+---
+This is a quick post today. A few backordered parts arrived from CubCrafters via UPS today so I spent a few minutes checking them off on the packing slips and putting them away in the appropriate places. Martha also helped me move the box containing the flaps to the shed - unfortunately the box with the ailerons is too big so it is still in the garage behind the fuselage. She also helped me put the right wing spars on the ground out of the way and the left spars in the fixtures on the sawhorses.
