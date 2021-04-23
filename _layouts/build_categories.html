@@ -62,19 +62,20 @@ layout: page
 
         <!-- content count -->
         {% assign build_posts = '' | split: '' %}
+        {% assign category_hours = 0 %}
         {% for current_post in site.categories[category_name] %}
           {% if current_post.layout == "build_log_post" %}
             {% assign build_posts = build_posts | push: current_post %}
+            {% assign post_hours = current_post.hours | default: 0 %}
+            {% assign category_hours = category_hours | plus: post_hours %}
           {% endif %}
         {% endfor %}
         {% assign top_posts_size = build_posts | size %}
         <span class="text-muted small font-weight-light">
-          {% if sub_categories_size > 0 %}
-            {{ sub_categories_size }}
-            {% if sub_categories_size > 1 %}categories{% else %}category{% endif %},
-          {% endif %}
             {{ top_posts_size }}
-            post{% if top_posts_size > 1 %}s{% endif %}
+            post{% if top_posts_size > 1 %}s{% endif %},
+            {{ category_hours }}
+            hour{% if category_hours != 1 %}s{% endif %}
         </span>
       </span>
 
@@ -103,14 +104,19 @@ layout: page
           <a href="{{ site.baseurl }}/categories/{{ sub_category | slugify | url_encode }}/"
             class="ml-1 mr-2">{{ sub_category }}</a>
           {% assign build_posts = '' | split: '' %}
+          {% assign category_hours = 0 %}
           {% for current_post in site.categories[sub_category] %}
             {% if current_post.layout == "build_log_post" %}
               {% assign build_posts = build_posts | push: current_post %}
+              {% assign post_hours = current_post.hours | default: 0 %}
+              {% assign category_hours = category_hours | plus: post_hours %}
             {% endif %}
           {% endfor %}
           {% assign posts_size = build_posts | size %}
           <span class="text-muted small font-weight-light">{{ posts_size }}
-            post{% if posts_size > 1 %}s{% endif %}
+            post{% if posts_size > 1 %}s{% endif %},
+            {{ category_hours }}
+            hour{% if category_hours != 1 %}s{% endif %}
           </span>
         </li>
         {% endfor %}
