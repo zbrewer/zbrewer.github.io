@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Front Spar Hinge Blocks"
 hours: 2.2
 date:   2021-04-21 20:30:00 -0600
-categories: [Carbon Cub Build, Left Wing]
+categories: [Carbon Cub Build, Left Wing, Blocks and Fittings]
 tags: [blocks, fittings, reaming, spars, left wing]
 ---
 # Reaming Followup
