@@ -2,7 +2,7 @@
 layout: build_log_post
 title:  "Placing Center Ribs"
 hours: 3
-date:   2021-05-28 20:00:00 -0600
+date:   2021-06-16 20:00:00 -0600
 categories: [Carbon Cub Build, Left Wing, Ribs]
 tags: [blocks, fittings, ribs]
 ---
