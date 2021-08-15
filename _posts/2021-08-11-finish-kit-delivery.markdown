@@ -2,7 +2,7 @@
 layout: build_log_post
 title:  "Finish Kit Delivery"
 hours: 3
-date:   2021-08-12 20:00:00 -0600
+date:   2021-08-11 20:00:00 -0600
 categories: [Carbon Cub Build, Logistics]
 tags: [delivery, logistics, unpacking, shipping, crate, tow truck]
 ---
