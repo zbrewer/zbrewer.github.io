@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Compression Tubes and Rotators"
 hours: 8
 date:   2021-05-23 20:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Blocks and Fittings]
+categories: [Carbon Cub Build, Left Wing, Central Structure]
 tags: [blocks, fittings, tubes, cherrymax, drilling rivets, rotators]
 ---
 I'm overdue for a build log entry/update so here's what's been going on the past couple weeks.

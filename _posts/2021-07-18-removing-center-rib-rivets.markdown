@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Removing Center Rib Rivets"
 hours: 5
 date:   2021-07-18 20:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Ribs]
+categories: [Carbon Cub Build, Left Wing, Central Structure]
 tags: [ribs, rivets]
 ---
 

@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Blocks and Fittings"
 hours: 3
 date:   2021-04-14 22:45:00 -0600
-categories: [Carbon Cub Build, Left Wing, Blocks and Fittings]
+categories: [Carbon Cub Build, Left Wing, Central Structure]
 tags: [blocks, fittings, spars, left wing]
 ---
 Today I finally got to make some progress on the plane that was not just unpacking related! I decided to start the build with the left wing since the wings are generally the recommended starting point and the left wing is what is depicted in the manual.

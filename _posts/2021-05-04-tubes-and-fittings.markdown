@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Tubes and Fittings"
 hours: 3.5
 date:   2021-05-04 23:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Blocks and Fittings]
+categories: [Carbon Cub Build, Left Wing, Central Structure]
 tags: [blocks, fittings, tubes, cherrymax, nibbler]
 ---
 # Rear Lift Strut Fittings

@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Drilling Out Tube Rivets"
 hours: 2.2
 date:   2021-05-05 22:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Blocks and Fittings]
+categories: [Carbon Cub Build, Left Wing, Central Structure]
 tags: [blocks, fittings, tubes, cherrymax, drilling rivets]
 ---
 I emailed CubCrafters yesterday and received a response from Mark addressing my questions. Today I mostly did some followup work based on those answers.

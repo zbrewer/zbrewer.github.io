@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Rear Hinge Blocks and Front Lift Strut Fittings"
 hours: 3.6
 date:   2021-04-22 23:30:00 -0600
-categories: [Carbon Cub Build, Left Wing, Blocks and Fittings]
+categories: [Carbon Cub Build, Left Wing, Central Structure]
 tags: [blocks, fittings, reaming, spars, left wing]
 ---
 # Hinge Blocks

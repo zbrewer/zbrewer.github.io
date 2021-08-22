@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Deburring Center Rib Hole"
 hours: 1.8
 date:   2021-07-25 20:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Ribs]
+categories: [Carbon Cub Build, Left Wing, Central Structure]
 tags: [ribs, rivets, deburring]
 ---
 
