@@ -12,7 +12,7 @@ source "https://rubygems.org"
 # gem "minima", "~> 2.5"
 
 # Chirpy theme
-gem "jekyll-theme-chirpy"
+gem "jekyll-theme-chirpy", "~> 3.2", ">= 3.2.1"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
