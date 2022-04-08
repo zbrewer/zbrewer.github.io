@@ -4,10 +4,8 @@ title:  "Riveting the Nose Ribs to the Spar"
 hours: 1.5
 date:   2022-03-20 12:00:00 -0600
 categories: [Carbon Cub Build, Left Wing, Front]
-tags: [rib clips, nose ribs]
+tags: [nose ribs]
 ---
-
-# Installing Nose Ribs
 
 Today my friend Josh came by to help me and I finished installing the nose ribs to the front spar using stainless steel rivets per section 25[^section-25-ref] of the manual. I had already installed most of the bottom rivets but, because of the curve of the nose rib, the top rivets were harder to get to. In order to get around this, I not only used the ground down rivet puller but also a nose piece I ground an angle into so that I could pull the rivets at an angle. This gave me the clearance I needed and Josh held the wing so I could push the puller onto the rivet with a good amount of force.
 
