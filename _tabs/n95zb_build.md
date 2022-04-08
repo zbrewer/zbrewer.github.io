@@ -24,7 +24,9 @@ image:
 ![Desktop View](https://lh3.googleusercontent.com/jaQ1AWF__virQ_KHinRNqlEADo75qDH9ELZvUXp4MR8Lp20077jocDrz3tA1x-hPyg4TgPSogJjAQgbqY9XU-ovsDDuGGyEsx45n4BQA9xM4RFmPaR_6rfIxoR5S5aZwkfFZH7tWumM=w2400)
 
 ## About
-N95ZB is a [CarbonCub EX2](http://cubcrafters.com/carboncub/ex) (CCK-1865) I am building in my 2 car garage in the Denver, CO area. The wing and fuselage kits shipped on Tuesday March 23, 2021 and the finish kit is scheduled to ship on Wednesday July 21, 2021.
+N95ZB is a [CarbonCub EX2](http://cubcrafters.com/carboncub/ex) (CCK-1865) I am building in my 2 car garage in the Denver, CO area. The wing and fuselage kits arrived on April 1, 2021 and the finish kit arrived on August 11, 2021.
+
+I started with, and am currently working on, the wing kit.
 
 ## Build Stats
 * Total hours: {{total_hours}}
