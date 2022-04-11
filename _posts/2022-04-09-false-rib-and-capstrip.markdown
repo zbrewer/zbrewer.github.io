@@ -1,9 +1,9 @@
 ---
 layout: build_log_post
-title:  "False Rib and Capstrip #5"
+title:  "False Rib and Rib 5 Capstrip"
 hours: 3.6
 date:   2022-04-09 12:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Front]
+categories: [Carbon Cub Build, Left Wing, Central Structure]
 tags: [false rib, capstrip]
 ---
 
