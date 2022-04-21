@@ -9,7 +9,7 @@ layout: default
 
     <div class="post pl-1 pr-1 pl-sm-2 pr-sm-2 pl-md-4 pr-md-4">
 
-      <h1 data-toc-skip>{{ page.title }}{% if page.hours %} - {{ page.hours }} hour{% if page.hours > 1 %}s{% endif %}{% endif %}</h1>
+      <h1 data-toc-skip>{{ page.title }}{% if page.hours %} - {{ page.hours }} hour{% if page.hours != 1 %}s{% endif %}{% endif %}</h1>
 
       <div class="post-meta text-muted d-flex flex-column">
         <!-- Published date and author -->
