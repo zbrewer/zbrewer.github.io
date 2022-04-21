@@ -36,7 +36,7 @@ There are then a number of holes to match drill into the rib that will get count
 ![Desktop View](/assets/img/posts/2022-04-10-riveting-capstrip-5/close_hole.jpg)
 _The front hole position in the #1 capstrip extremely close to an edge_
 
-The position of the capstrip on rib #3 is based onn the position of the capstrip on rib #1 so I decided to move on yet again to section 33[^section-33-ref], installing the capstrip on the bottom of rib #1.
+The position of the capstrip on rib #3 is based on the position of the capstrip on rib #1 so I decided to move on yet again to section 33[^section-33-ref], installing the capstrip on the bottom of rib #1.
 
 For this step, I followed the alignment instructions and clamped the capstrip in place. Before I drilled any holes though, I checked Dave Embry's build tips and he said that the hole in the nose rib shouldn't be match drilled and that there are only 21 rivets to install. The manual calls for 22 and I don't see a reason why the nose rib can't be riveted too. That being said, since there is some disagreement here I decided to verify this with CubCrafters as well so that I can be confident about the placement before I drill any holes.
 
