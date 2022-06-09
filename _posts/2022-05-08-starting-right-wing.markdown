@@ -20,6 +20,3 @@ After the bolts were installed and torqued we also placed the rest of the blocks
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WsGKqnVVZJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-[^section-38-ref]: Wing Manual (EX-2/EX-3) CK-KM301 Rev B, Section 38
-[^section-35-ref]: Wing Manual (EX-2/EX-3) CK-KM301 Rev B, Section 35
