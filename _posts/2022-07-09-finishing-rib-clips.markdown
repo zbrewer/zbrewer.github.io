@@ -22,7 +22,7 @@ After this I went ahead and installed the rest of the rivets in the #12 rib clip
 
 # Nose and Tail Ribs
 
-After finishing with the machined rib clips, I began trimming the nose and tail ribs as specified in the manual. I cleco'd them to the spars as I went. This ended up taking most of the build-time today and, while I didn't finish, I made significant progress.
+After finishing with the machined rib clips, I began trimming the nose and tail ribs as specified in the manual sections 27[^section-27-ref] and 30[^section-30-ref]. I cleco'd them to the spars as I went. This ended up taking most of the build-time today and, while I didn't finish, I made significant progress.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u2aVVAdpqJI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
