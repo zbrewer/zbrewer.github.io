@@ -15,3 +15,5 @@ With the test piece done, we stripped the end of the 18ga wire, installed a sold
 _The finished landing light harness_
 
 Once it was done, we weighed the new harness and the old one to compare. The old one was just over 2oz and the new one is just under 3oz. This is, speaking conservatively, a 1oz difference. Since there is a second wire in the fuselage of a similar length and the setup is repeated for the other side, the overall weight difference for the landing light wires seems to be about 4oz or 0.25 pounds.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GB904lvqu9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
