@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Starting Nose and Tail Ribs"
 hours: 7.3
 date:   2022-07-10 12:00:00 -0600
-categories: [Carbon Cub Build, Right Wing, Front]
+categories: [Carbon Cub Build, Wings, Right Wing]
 tags: [nose ribs, tail ribs]
 ---
 

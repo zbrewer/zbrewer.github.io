@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Riveting Blocks and Fittings"
 hours: 1.5
 date:   2021-05-28 20:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Central Structure]
+categories: [Carbon Cub Build, Wings, Left Wing]
 tags: [blocks, fittings, tubes, cherrymax, rivets]
 ---
 

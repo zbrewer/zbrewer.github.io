@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Reinstalling Center Rib Rivets"
 hours: 1
 date:   2021-07-20 20:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Central Structure]
+categories: [Carbon Cub Build, Wings, Left Wing]
 tags: [ribs, rivets]
 ---
 

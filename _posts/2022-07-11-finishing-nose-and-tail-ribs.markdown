@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Finishing Nose and Tail Ribs"
 hours: 1.4
 date:   2022-07-11 12:00:00 -0600
-categories: [Carbon Cub Build, Right Wing, Rear]
+categories: [Carbon Cub Build, Wings, Right Wing]
 tags: [nose ribs, tail ribs]
 ---
 

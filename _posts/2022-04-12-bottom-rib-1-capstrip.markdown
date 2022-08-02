@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Rib 1 Bottom Capstrip"
 hours: 4.4
 date:   2022-04-12 12:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Central Structure]
+categories: [Carbon Cub Build, Wings, Left Wing]
 tags: [capstrip, countersinking, riveting]
 ---
 

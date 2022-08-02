@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Right Wing Tubes and Ribs"
 hours: 8
 date:   2022-05-09 12:00:00 -0600
-categories: [Carbon Cub Build, Right Wing, Central Structure]
+categories: [Carbon Cub Build, Wings, Right Wing]
 tags: [compression tubes, ribs]
 ---
 

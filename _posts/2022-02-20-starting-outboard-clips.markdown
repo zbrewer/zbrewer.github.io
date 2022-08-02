@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Starting the Installation of the Outboard Aileron Hanger Clips"
 hours: 1.7
 date:   2022-02-20 12:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Rear]
+categories: [Carbon Cub Build, Wings, Left Wing]
 tags: [rib clips]
 ---
 

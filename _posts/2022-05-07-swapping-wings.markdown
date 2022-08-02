@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Swapping Wings"
 hours: 8
 date:   2022-05-07 12:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Central Structure]
+categories: [Carbon Cub Build, Wings, Left Wing]
 tags: [wing stand, rib braces]
 ---
 

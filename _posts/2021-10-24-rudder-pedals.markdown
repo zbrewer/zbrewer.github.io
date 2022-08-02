@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Rudder Pedals"
 hours: 5.2
 date:   2021-10-24 20:00:00 -0600
-categories: [Carbon Cub Build, Fuselage, Miscellaneous]
+categories: [Carbon Cub Build, Fuselage]
 tags: [rudder pedals]
 ---
 

@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Tail Ribs"
 hours: 4.1
 date:   2022-01-09 12:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Rear]
+categories: [Carbon Cub Build, Wings, Left Wing]
 tags: [tail ribs]
 ---
 

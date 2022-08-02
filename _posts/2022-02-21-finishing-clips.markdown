@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Finishing the Installation of the Machined Rib/Hanger Clips"
 hours: 4.2
 date:   2022-02-21 12:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Rear]
+categories: [Carbon Cub Build, Wings, Left Wing]
 tags: [rib clips]
 ---
 

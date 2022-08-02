@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Rear Aileron Pulley Bracket"
 hours: 4
 date:   2021-12-02 12:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Central Structure]
+categories: [Carbon Cub Build, Wings, Left Wing]
 tags: [pulley bracket]
 ---
 

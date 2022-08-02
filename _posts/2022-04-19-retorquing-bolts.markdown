@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Retorquing Bolts"
 hours: 0.8
 date:   2022-04-19 12:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Central Structure]
+categories: [Carbon Cub Build, Wings, Left Wing]
 tags: [torquing]
 ---
 

@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Match Drilling Nose Ribs"
 hours: 1.5
 date:   2022-03-26 12:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Front]
+categories: [Carbon Cub Build, Wings, Left Wing]
 tags: [nose ribs]
 ---
 

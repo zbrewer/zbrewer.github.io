@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Right Wing Front Pulley Bracket"
 hours: 1.6
 date:   2022-06-23 12:00:00 -0600
-categories: [Carbon Cub Build, Right Wing, Central Structure]
+categories: [Carbon Cub Build, Wings, Right Wing]
 tags: [cherrymax, pulley bracket]
 ---
 

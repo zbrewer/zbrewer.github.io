@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Match Drilling Center Ribs"
 hours: 3
 date:   2021-06-20 20:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Central Structure]
+categories: [Carbon Cub Build, Wings, Left Wing]
 tags: [ribs, match drilling, tool modification]
 ---
 

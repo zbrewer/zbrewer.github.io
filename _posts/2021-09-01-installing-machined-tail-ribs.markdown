@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Installing Machined Tail Ribs"
 hours: 0.8
 date:   2021-09-01 20:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Central Structure]
+categories: [Carbon Cub Build, Wings, Left Wing]
 tags: [cherrymax, offset puller]
 ---
 

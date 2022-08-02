@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Finishing the Rear Spar Reinforcement"
 hours: 2.3
 date:   2022-06-27 12:00:00 -0600
-categories: [Carbon Cub Build, Right Wing, Central Structure]
+categories: [Carbon Cub Build, Wings, Right Wing]
 tags: [spar reinforcement]
 ---
 

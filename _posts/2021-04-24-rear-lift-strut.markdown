@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Rear Lift Strut Fitting and Double Ribs"
 hours: 4.1
 date:   2021-04-24 23:30:00 -0600
-categories: [Carbon Cub Build, Left Wing, Central Structure]
+categories: [Carbon Cub Build, Wings, Left Wing]
 tags: [blocks, fittings, reaming, spars, left wing, methacrylate, double ribs]
 ---
 # Front Lift Strut Fitting

@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "First Wing Wiring Harness"
 hours: 2.2
 date:   2022-07-24 12:00:00 -0600
-categories: [Carbon Cub Build, Right Wing]
+categories: [Carbon Cub Build, Wings]
 tags: [wiring]
 ---
 

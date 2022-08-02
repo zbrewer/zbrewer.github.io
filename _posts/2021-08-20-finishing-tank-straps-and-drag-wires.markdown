@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Finishing Fuel Tank Straps and Drag Wires"
 hours: 2.3
 date:   2021-08-20 20:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Central Structure]
+categories: [Carbon Cub Build, Wings, Left Wing]
 tags: [fuel tank straps, drag wires]
 ---
 

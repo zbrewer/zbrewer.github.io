@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Finishing Cap Strips"
 hours: 7.3
 date:   2022-07-17 12:00:00 -0600
-categories: [Carbon Cub Build, Right Wing, Central Structure]
+categories: [Carbon Cub Build, Wings, Right Wing]
 tags: [cap strips]
 ---
 

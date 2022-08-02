@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Riveting the Rear Spar Reinforcement Cap"
 hours: 2
 date:   2021-12-01 12:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Central Structure]
+categories: [Carbon Cub Build, Wings, Left Wing]
 tags: [spar reinforcement]
 ---
 

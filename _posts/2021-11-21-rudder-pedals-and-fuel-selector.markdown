@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Rudder Pedals and Fuel Selector"
 hours: 3
 date:   2021-11-21 12:00:00 -0600
-categories: [Carbon Cub Build, Fuselage, Miscellaneous]
+categories: [Carbon Cub Build, Fuselage]
 tags: [rudder pedals, fuel system, deburring]
 ---
 

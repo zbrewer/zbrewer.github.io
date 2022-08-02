@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Inspecting Flap False Spar"
 hours: 0.7
 date:   2022-07-20 12:00:00 -0600
-categories: [Carbon Cub Build, Right Wing, Rear]
+categories: [Carbon Cub Build, Wings, Right Wing]
 tags: [false spar]
 ---
 

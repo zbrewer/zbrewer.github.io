@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Reaming Spar Hinge Blocks"
 hours: 1
 date:   2021-04-18 18:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Central Structure]
+categories: [Carbon Cub Build, Wings, Left Wing]
 tags: [blocks, fittings, reaming, spars, left wing]
 ---
 Today I worked on reaming the spar hinge blocks. I did this per the manual's instructions[^section-3-ref] and clamped the hinge blocks between a couple pieces of scrap wood on the workbench so that I could focus on keeping the reamer nice and straight.

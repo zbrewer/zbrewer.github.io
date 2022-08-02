@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Finishing the Front Pulley Bracket and Starting the Rear Spar Reinforcement"
 hours: 4.6
 date:   2022-06-25 12:00:00 -0600
-categories: [Carbon Cub Build, Right Wing, Central Structure]
+categories: [Carbon Cub Build, Wings, Right Wing]
 tags: [cherrymax, pulley bracket, spar reinforcement]
 ---
 

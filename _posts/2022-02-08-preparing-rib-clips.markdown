@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Preparing Rib Clips and Nose Ribs"
 hours: 2.4
 date:   2022-02-08 12:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Rear]
+categories: [Carbon Cub Build, Wings, Left Wing]
 tags: [rib clips, nose ribs, sanding]
 ---
 

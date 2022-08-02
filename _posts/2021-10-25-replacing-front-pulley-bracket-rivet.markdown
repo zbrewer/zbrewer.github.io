@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Replacing the Front Pulley Bracket Rivet"
 hours: 1.7
 date:   2021-10-24 20:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Central Structure]
+categories: [Carbon Cub Build, Wings, Left Wing]
 tags: [pulley bracket, cherrymax]
 ---
 

@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Finishing Machined Rib Clips"
 hours: 4.7
 date:   2022-07-09 12:00:00 -0600
-categories: [Carbon Cub Build, Right Wing, Rear]
+categories: [Carbon Cub Build, Wings, Right Wing]
 tags: [rib clips, rib trimming]
 ---
 

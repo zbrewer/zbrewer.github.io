@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Rib Braces and Pitot Bracket Nutplates"
 hours: 3
 date:   2022-04-26 12:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Central Structure]
+categories: [Carbon Cub Build, Wings, Left Wing]
 tags: [nutplates, rib braces]
 ---
 

@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Installing the Aileron/Flap Hanger Clips and Starting the Nose Ribs"
 hours: 2.3
 date:   2022-02-10 12:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Rear]
+categories: [Carbon Cub Build, Wings, Left Wing]
 tags: [rib clips, nose ribs]
 ---
 

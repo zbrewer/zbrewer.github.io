@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Trimming Nose Ribs"
 hours: 3.2
 date:   2022-01-17 12:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Front]
+categories: [Carbon Cub Build, Wings, Left Wing]
 tags: [nose ribs, nibbler]
 ---
 

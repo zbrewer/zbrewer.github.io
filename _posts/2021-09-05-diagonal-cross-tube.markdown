@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Diagonal Cross Tube"
 hours: 4
 date:   2021-09-05 20:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Central Structure]
+categories: [Carbon Cub Build, Wings, Left Wing]
 tags: [drag wires, tubes, pulley bracket]
 ---
 

@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Outboard Aileron False Spar"
 hours: 2.1
 date:   2022-01-23 12:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Rear]
+categories: [Carbon Cub Build, Wings, Left Wing]
 tags: [false spar]
 ---
 

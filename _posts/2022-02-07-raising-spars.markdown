@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Raising Spars"
 hours: 0.7
 date:   2022-02-07 12:00:00 -0600
-categories: [Carbon Cub Build, Left Wing]
+categories: [Carbon Cub Build, Wings, Left Wing]
 tags: [jigs]
 ---
 

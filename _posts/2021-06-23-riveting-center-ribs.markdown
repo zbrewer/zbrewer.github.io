@@ -3,7 +3,7 @@ layout: build_log_post
 title:  "Riveting Center Ribs"
 hours: 1.8
 date:   2021-06-23 20:00:00 -0600
-categories: [Carbon Cub Build, Left Wing, Central Structure]
+categories: [Carbon Cub Build, Wings, Left Wing]
 tags: [ribs, rivets]
 ---
 
