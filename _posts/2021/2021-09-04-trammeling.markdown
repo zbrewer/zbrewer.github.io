@@ -27,19 +27,19 @@ With the slack taken out of the wires, we used a Sharpie to mark a dot on the th
 
 At this point, we checked to make sure the spars were still square against the #2 drag tube. The tube bowed a bit from the tension (the manual mentions that this is normal) so it was a bit tough to tell but we adjusted the drag wires until the front and rear spar looked about the same against the square. Because the bowed drag tube made it difficult to verify that the bay was still square using the framing square, we also used a laser cross that Craig brought to project perpendicular laser lines and back ourselves up. Finally, once we verified that everything looked okay, we checked the tension one last time and were able to move on from the first bay.
 
-![Desktop View](/assets/img/posts/2021-09-04-trammeling/first_bay.png)
+![Desktop View](/assets/img/posts/2021/2021-09-04-trammeling/first_bay.png)
 _Using a laser in addition to a square on the first bay_
 
 ## Remaining Bays
 
 The main goal for the rest of the bays is that the rear spar makes as close to a perfect straight line as possible. This is because the machined tail ribs attached to the rear spar hold the aileron and if it isn't straight then the aileron won't fit right and will bind instead of moving freely. The best way to do this is to stretch a string across the rear edge of the rear spar. You want this string as closely lined up with the edge of the spar as possible and slightly above it. We used a few wooden garden stakes I had to hold the string above the spar and some 2" spring clamps to hold the ends in place. An important lesson we learned here was that you really just want this string stretching across the bays you have already trammeled (so starting at the wing root) and out to the outboard end of the bay you are currently working on. That is because you need to move the spar back and forth to keep the edge aligned with the string. If you start with it stretched all the way to the end then you are basically trying to get all of the bays square at the same time instead of just the one you are focusing on.
 
-![Desktop View](/assets/img/posts/2021-09-04-trammeling/string_lines.png)
+![Desktop View](/assets/img/posts/2021/2021-09-04-trammeling/string_lines.png)
 _The string lines set up to provide a reference to straighten the spar_
 
 The best way to make sure that the edge of the spar is aligned with the string is to place a plastic ruler (so it doesn't scratch the aluminum) on the face of the spar so that it sticks up past the string. We aligned this so that the string just barely didn't touch the ruler on the ends and then straightened the spar to keep this same distance throughout. Once that was achieved we could finger tighten the nuts on the drag wires in that bay, set the tension as previously described, and then move to the next bay outboard. This whole process took us a little while to perfect but we got the hang of it by the end. The next wing we do (Craig's) should go significantly faster.
 
-![Desktop View](/assets/img/posts/2021-09-04-trammeling/checking_line.png)
+![Desktop View](/assets/img/posts/2021/2021-09-04-trammeling/checking_line.png)
 _Checking the gap between the edge of the front spar and the string line_
 
 We primarily focused on straightening the rear spar with the string line since it is the critical one and what the aileron mounts to. In addition, since the spars are held a constant distance apart by the ribs and drag tubes the front spar should be straight as long as the rear one is. In order to be thorough, we did set up a string line for the front spar in the same way we had for the rear and found that it was also nice and straight.
@@ -50,7 +50,7 @@ Section 15[^section-15-ref] calls for the builder to use Loctite #271 on the out
 
 We pulled out the left aileron and installed the bolts through the machined tail ribs and into the two ends which went in really nicely. We did have to lift the center aileron hanger into position a bit because it wasn't very tight yet and was sagging in the middle. Once lined up, this bolt went in nicely too. At this point, we were able to move the aileron up and down (which was extremely satisfying) without it binding or taking much force at all. In fact, the motion felt very smooth. We were pretty sure this was what we were shooting for but did spend a little extra time verifying that this was correct because of the center hanger not lining up right away.
 
-![Desktop View](/assets/img/posts/2021-09-04-trammeling/aileron_installed.png)
+![Desktop View](/assets/img/posts/2021/2021-09-04-trammeling/aileron_installed.png)
 _Aileron temporarily installed to check the rear spar_
 
 After we confirmed that everything was looking good we removed the aileron and put it back in its crate under the wing for safe keeping. We decided this was enough for the day so tomorrow we will just need to apply Loctite to the drag wire jam nuts, cut off a bit of extra drag wire that is protruding past the nuts and getting a little too close to the center aileron hanger, and reinstall/Loctite/torque the bolt in the center aileron hanger in order to finish sections 15 and 16. After that we can move on to 17 - installing the diagonal cross tube.

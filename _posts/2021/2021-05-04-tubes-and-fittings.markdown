@@ -10,7 +10,7 @@ tags: [blocks, fittings, tubes, cherrymax, nibbler]
 
 A lot happened today. I received the correct AN6-20A bolts from CubCrafters at the end of last week so I started today by installing one in the necessary spot in the rear lift strut fittings. After that nut was snug I went back and torqued all of the hardware which finally finished section 4 of the manual[^section-4-ref].
 
-![Desktop View](/assets/img/posts/2021-05-04-tubes-and-fittings/finished_rear_lift_strut_fittings.png)
+![Desktop View](/assets/img/posts/2021/2021-05-04-tubes-and-fittings/finished_rear_lift_strut_fittings.png)
 _Torqued and finished rear lift strut fittings_
 
 # Hinge Blocks
@@ -23,7 +23,7 @@ I also realized that, even though I reamed and torqued the bolts in the front hi
 
 Since I already completed section 5 (gluing the double ribs together), I was now able to move on to section 6[^section-6-ref]. This involved inserting the tubes into the front spar fittings with the front spar laying on its side (so the tubes were sticking up into the air) and then laying the rear spar on top and lining everything up. Martha helped me with this step before she went into work.
 
-![Desktop View](/assets/img/posts/2021-05-04-tubes-and-fittings/tubes_installed.png)
+![Desktop View](/assets/img/posts/2021/2021-05-04-tubes-and-fittings/tubes_installed.png)
 _Tubes installed_
 
 The manual then instructed that you rivet the two tubes inserted into the lift strut fittings in place. This required match drilling two holes in the end of each (using a #30 bit) for a total of eight holes that would receive rivets. The rivets used were CherryMAX CR3213-4-4 rivets. These are blind (pop) rivets that have a steel stem and are stronger than typical blind rivets. I used a clamp to hold the spars together (and the tubes fully in their fittings) and drilled all of the holes (inserting clecos as I went). I then began inserting and pulling the rivets.
@@ -34,7 +34,7 @@ It is fairly common to need to drill out and replace rivets when building an air
 
 I tried this removal process on the practice rivets I had pulled earlier. Those rivets were actually pulled correctly so it wasn't exactly representative of what I will need to do but it definitely wasn't easy. I'm not as confident with this process as I'd like to be so I'm planning to contact CubCrafters to see if they have any tips.
 
-![Desktop View](/assets/img/posts/2021-05-04-tubes-and-fittings/incorrect_cherrymax.png)
+![Desktop View](/assets/img/posts/2021/2021-05-04-tubes-and-fittings/incorrect_cherrymax.png)
 _Incorrectly pulled CherryMAX rivet_
 
 # Match Drilling Blocks and Fittings
@@ -45,7 +45,7 @@ Section 7[^section-7-ref] of the manual instructs the builder to match drill the
 
 Since I couldn't do any more on sections 6 or 7 I decided to go ahead and prepare for section 8 (installing the center ribs) by trimming the #1 rib to fit around the rear hinge-block bolt head, as instructed[^section-8-ref]. I cut this hole out using a nibbler in order to avoid deforming the aluminum. Unfortunately, I nibbled on the wrong side of my line and added a bit of a step to the cutout. This is a very small cutout but I'm going to confirm that this is okay with CubCrafters as well just to be safe.
 
-![Desktop View](/assets/img/posts/2021-05-04-tubes-and-fittings/rib_around_bolt_head.png)
+![Desktop View](/assets/img/posts/2021/2021-05-04-tubes-and-fittings/rib_around_bolt_head.png)
 _Rib cut out around bolt head_
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eryXWZ1M9w0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

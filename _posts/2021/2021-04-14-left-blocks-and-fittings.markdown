@@ -16,15 +16,15 @@ I had previously laid out the spars on the sawhorses but still needed to finish 
 
 I had also noticed some jagged edges and a somewhat large burr on the cut ends of the spar bulbs on the main spar. I emailed the factory asking what to do about these and they told me that it was okay to go ahead and smooth them out.
 
-![Desktop View](/assets/img/posts/2021-04-14-left-blocks-and-fittings/spar_bulb_before.png)
+![Desktop View](/assets/img/posts/2021/2021-04-14-left-blocks-and-fittings/spar_bulb_before.png)
 _Burrs on the spar bulbs_
 
 I did this by gently pulling the burr out from under the spar cap with a dental pick so that I could break it off. I then used a small hand file and some 320 grit sandpaper to gently smooth out the rough edge. This worked really nicely and the end of the spar bulb is now really nicely finished.
 
-![Desktop View](/assets/img/posts/2021-04-14-left-blocks-and-fittings/finished_spar_bulb.png)
+![Desktop View](/assets/img/posts/2021/2021-04-14-left-blocks-and-fittings/finished_spar_bulb.png)
 _Finished spar bulb_
 
-![Desktop View](/assets/img/posts/2021-04-14-left-blocks-and-fittings/removed_burrs.png)
+![Desktop View](/assets/img/posts/2021/2021-04-14-left-blocks-and-fittings/removed_burrs.png)
 _Removed burrs_
 
 Just to reiterate, all of the burrs and scratches needed to be smoothed out so that they don't become [stress risers](https://en.wikipedia.org/wiki/Stress_concentration) and cause the aluminum to develop a crack at some point in the future.
@@ -45,7 +45,7 @@ I started by pulling all of the necessary parts and highlighting the part number
 
 After that it was a simple matter of installing all of the blocks and fittings using copper (1/8") [clecos](https://en.wikipedia.org/wiki/Cleco_(fastener)). The drawings and the textual description made it pretty obvious what orientation everything was supposed to be installed in and where it was supposed to be installed although I still triple checked that everything was right. This actual installation was the fastest part of the process by far.
 
-![Desktop View](/assets/img/posts/2021-04-14-left-blocks-and-fittings/attached_fitting.png)
+![Desktop View](/assets/img/posts/2021/2021-04-14-left-blocks-and-fittings/attached_fitting.png)
 _Attached fitting_
 
 Even after just completing this first step I can definitely understand why it would be faster to build both wings at the same time. You would definitely save a lot of time pulling the parts at the same time and only figuring out what you needed to do once. That being said, I'm hopeful that the second wing will still go more quickly than the first since I will have already done it once.

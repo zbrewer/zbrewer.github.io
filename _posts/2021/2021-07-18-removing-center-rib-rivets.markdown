@@ -13,7 +13,7 @@ On the other hand, the other rivet, the one on the bottom outboard side of rib #
 
 Next I decided to remove the bad rivets from rib #1. Of the 4 rivets on the front spar, only one was pulled correctly and the rest had to be drilled out. I was able to get two of them without any problems but there was a gap between the rib and the spar on the last one. The rivet stem got a bit crooked/swollen in this gap when I tried to tap it out with a punch and it became impossible to remove. I ended up having to remove the last (good) rivet as well so that I could move the rib out of the way to get to the rivet. 
 
-![Desktop View](/assets/img/posts/2021-07-18-removing-center-rib-rivets/problem_rivet.png)
+![Desktop View](/assets/img/posts/2021/2021-07-18-removing-center-rib-rivets/problem_rivet.png)
 _The problematic rivet in the gap between the rib and the spar_
 
 With the rib out of the way I was able to get to the rivet more easily but there wasn't enough sticking out of the hole to squeeze back together with pliers or side cutters. Instead, I had to use very small pin punches perpendicular to the hole to tap the outsides of the rivet back in. This was a bit of a painstaking process but I was eventually able to get all of the edges of the rivet bent back in so that I could remove the rivet.
@@ -24,7 +24,7 @@ After I was done with rib #1 I decided to enlarge the holes for rib #12 on the f
 
 In the meantime, I cleco'd in rib #4 and pulled some parts for the next sections of the manual so that I would be ready when the time came. Namely, I pulled the fuel tank straps and the drag wires. I also tried drilling through the rear strut block for one of the drag wires using a 3/16" bit per section 11[^section-11-ref] of the manual. Unfortunately, this dulled my bit extremely quickly despite my use of cutting fluid so I was unable to complete the hole or move on to any others. My guess is that the bit bound in the hole that already existed although I'm not quite sure. I did order some replacement bits that should get here in a few days to continue with that section.
 
-![Desktop View](/assets/img/posts/2021-07-18-removing-center-rib-rivets/drilling_rear_block.png)
+![Desktop View](/assets/img/posts/2021/2021-07-18-removing-center-rib-rivets/drilling_rear_block.png)
 _Trying to drill the rear strut attach block_
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-zr7dOD_ctc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

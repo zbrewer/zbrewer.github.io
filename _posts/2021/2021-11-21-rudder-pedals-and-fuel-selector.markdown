@@ -21,7 +21,7 @@ I also completed section 1[^section-1-ref] of the fuselage manual today by touch
 
 The last thing I did on the fuselage today was complete section 4 part 6[^section-4-step-6-ref] by pre-assembling the fuel selector and installing it temporarily in the fuselage.
 
-![Desktop View](/assets/img/posts/2021-11-21-rudder-pedals-and-fuel-selector/fuel_selector.png)
+![Desktop View](/assets/img/posts/2021/2021-11-21-rudder-pedals-and-fuel-selector/fuel_selector.png)
 _Installed fuel selector_
 
 # Deburring Rivet Holes

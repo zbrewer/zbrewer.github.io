@@ -15,7 +15,7 @@ From there we pulled the bottom inboard rivet, the bottom outboard, and finally 
 
 We also looked at the problematic rivet on rib #3 and were able to figure out what was going on. I already suspected a burr on the back of the hole since everything else seemed to line up nicely and it looked like thr rivet should pull fine. The back of the hole is a bit hard to see well but by using an inspection mirror and a flashlight shined in from the side we were able to see that there was in fact a burr around the outside of the hole.
 
-![Desktop View](/assets/img/posts/2021-07-20-reinstalling-center-rib-rivets/burr_on_back_of_hole.png)
+![Desktop View](/assets/img/posts/2021/2021-07-20-reinstalling-center-rib-rivets/burr_on_back_of_hole.png)
 _The burr on the back of the problematic hole_
 
 This burr seems like it is going to be difficult to remove since it goes around the entire hole and appears to be somewhat stout. It is also extremely difficult to get to the back of the hole and it is very close to the spar bulb (which must not be damaged) so I'll have to be very careful when working on it. The good news is that I now know what the problem is and therefore what needs to be done to fix it but I'll definitely have to do some brainstorming to figure out the best approach. Once this rivet gets installed correctly I can install rib #4 and will be done with the center ribs.

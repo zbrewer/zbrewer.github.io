@@ -15,14 +15,14 @@ I borrowed a rivet gun and bucking bar set from Craig and tried to practice buck
 
 I ended up playing around some more with the squeezer and the two different yokes I had and figured out that the nose (side opposite from the handles) of the squeezer would fit where I needed it to if I flipped the rivet around (so the factory head was inboard). While it did clear everything and let me hold the squeezer straight it did not quite reach the factory head of the rivet. I used a few small washers to shim up the factory head side of the squeezer so that it would reach the rivet. Since the orientation of the rivets does not matter I was able to install the two remaining rivets this way and finish installing the blocks and fittings.
 
-![Desktop View](/assets/img/posts/2021-06-16-placing-center-ribs/squeezer.png)
+![Desktop View](/assets/img/posts/2021/2021-06-16-placing-center-ribs/squeezer.png)
 _The rivet squeezer with washers shimming up the factory head side_
 
 I did talk to Clyde about this problem and realized that I could use the squeezer in the opposite orientation (factory head on the moving part of the squeezer and shop head on the stationary side) without any problems. I think that, if I had used the same yoke I went with but had reversed the squeezer orientation, I would have been able to put the rivets in with the factory heads facing outboard (the initial orientation) and squeezed them using a longer flat squeezer piece (for the shop head) that I have. This would have made my life a little easier but what I did accomplished the same result and now I know for the next wing!
 
 At this point all of the blocks and fittings were installed and I was done with section 7[^section-7-ref] of the manual.
 
-![Desktop View](/assets/img/posts/2021-06-16-placing-center-ribs/installed_block.png)
+![Desktop View](/assets/img/posts/2021/2021-06-16-placing-center-ribs/installed_block.png)
 _The last block/fitting installed_
 
 # Placing the Center Ribs
@@ -35,26 +35,26 @@ After rib #1 was done I placed the bolts and washers needed to attach one of the
 
 From there I installed the other set of machined tail rib bolts/washers behind the #12 rib and cleco'd the rest of the ribs in place (excluding the #4 and #6 ribs so that I would have more room to work when match drilling the double ribs). While doing this I installed a cleco in the bottom hole on the forward spar for rib #8 and covered it with masking tape (with the word "NO" written on it) so that I would remember that this hole does not get riveted at this time.
 
-![Desktop View](/assets/img/posts/2021-06-16-placing-center-ribs/taped_cleco.png)
+![Desktop View](/assets/img/posts/2021/2021-06-16-placing-center-ribs/taped_cleco.png)
 _Tape over a cleco so I remember not to install a rivet yet_
 
 Finally, I went back over each rib to ensure that it was the correct part number for that bay, the cleco in the hole I should not install a rivet in had tape, the machined tail rib bolts were installed, and the double ribs were installed in the correct side.
 
 The only things left to do to finish section 8 are match drilling the holes in the spars and riveting in all of the ribs (including the final two that have not been placed yet). Even though they are not yet permanently installed this was an exciting step because it makes it start to look a lot more like a wing!
 
-![Desktop View](/assets/img/posts/2021-06-16-placing-center-ribs/ribs_placed.png)
+![Desktop View](/assets/img/posts/2021/2021-06-16-placing-center-ribs/ribs_placed.png)
 _The center ribs placed in the wing_
 
 # Checking the Center Ribs
 
 When the center ribs are glued together you have to be very careful not to get any glue in the flutes that hold the nose and tail ribs. I wanted to be confident that I had done this correctly before I riveted in any ribs so I trimmed the hydro forming tabs off of a nose rib per section 13[^section-13-ref] of the manual. I did this using a nibbler and then a fine sanding drum on my Dremel tool to smooth out the edges and corners.
 
-![Desktop View](/assets/img/posts/2021-06-16-placing-center-ribs/trimmed_nose_rib.png)
+![Desktop View](/assets/img/posts/2021/2021-06-16-placing-center-ribs/trimmed_nose_rib.png)
 _Trimming the nose rib_
 
 After this I was able to test fit the nose rib on each double rib and they all worked just fine which means that the gluing was okay (I visually inspected the flutes for the tail ribs).
 
-![Desktop View](/assets/img/posts/2021-06-16-placing-center-ribs/test_nose_rib.png)
+![Desktop View](/assets/img/posts/2021/2021-06-16-placing-center-ribs/test_nose_rib.png)
 _Test fitting the nose rib on the #1 double rib_
 
 # Spar Inspection

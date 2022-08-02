@@ -12,12 +12,12 @@ I started this work session by installing the hinge blocks on the rear spar. The
 
 Finally, I reamed the top hole and installed hardware. Once this was done and the bolts were torqued I realized that the blocks were too tight together for the washer to be removed. I wasn't sure if I had done something wrong so I disassembled everything and double checked. Everything seemed right and lined up well both without torqued bolts and with. I opted to just leave the washer in place since it is the same washer that is required when attaching the wing to the fuselage. I replaced the nuts with new locking nuts and re-torqued everything.
 
-![Desktop View](/assets/img/posts/2021-04-22-rear-spar-hinge-blocks/installed_hinge_blocks.png)
+![Desktop View](/assets/img/posts/2021/2021-04-22-rear-spar-hinge-blocks/installed_hinge_blocks.png)
 _Rear hinge block installed_
 
 This process did cause me a bit of frustration though so I think when I get to the next wing I will do this slightly differently. I will start by reaming the very end holes through each block and temporarily installing a bolt through them. After that I will ream the top hole that contacts the spar as an assembly and then the top and bottom holes on the spar. From there I can temporarily install everything (including a bolt and the washer at the very top hole) and ream the final hole as an assembly.
 
-![Desktop View](/assets/img/posts/2021-04-22-rear-spar-hinge-blocks/washer_not_removed.png)
+![Desktop View](/assets/img/posts/2021/2021-04-22-rear-spar-hinge-blocks/washer_not_removed.png)
 _Washer still in place_
 
 Once the rear hinge blocks were installed I was finally done with section 3.
@@ -28,7 +28,7 @@ Section 4 of the manual[^section-4-ref] focuses on installing the lift strut fit
 
 Reaming the remaining holes and installing/torquing the hardware was straightforward. I was also careful to install the AN960-616 washer on the AN-6 bolt in between the fittings. One of the bolts also passes through in the opposite direction to the others so this required some extra attention as well. The manual made these points very obvious but it is still important to double check.
 
-![Desktop View](/assets/img/posts/2021-04-22-rear-spar-hinge-blocks/installed_lift_strut.png)
+![Desktop View](/assets/img/posts/2021/2021-04-22-rear-spar-hinge-blocks/installed_lift_strut.png)
 _Installed lift strut_
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jjxv_StsHrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

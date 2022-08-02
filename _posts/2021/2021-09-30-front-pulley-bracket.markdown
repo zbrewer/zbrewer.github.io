@@ -15,12 +15,12 @@ All 5 rivets in the front pulley bracket pulled just fine on Craig's wing using 
 
 After that, I carefully drilled the head off of the CherryMax rivet and worked to shave down the little bits of rivet sticking up above the hole so that it could be driven out with a punch successfully. I then tried to punch the rivet out of the hole as one would typically do when removing rivets. Unfortunately, what neither Craig nor I realized was that the rivet was still sticking down really far on the back side because the stem had broken off so low. When I tried to drive the rivet out I had accidentally driven the rivet into the spar bulb and scraped it a bit.
 
-![Desktop View](/assets/img/posts/2021-09-30-front-pulley-bracket/rivet_scrape.png)
+![Desktop View](/assets/img/posts/2021/2021-09-30-front-pulley-bracket/rivet_scrape.png)
 _The rivet pushed into the spar bulb_
 
 Once we realized what had happened, we were able to use a set of Knipex plier wrenches and some wood on both sides to push the rivet back up to where it started and off the bulb. It was fortunately just a very shallow scrape in the metal but I do definitely want to confirm this is ok with CubCrafters before preceding.
 
-![Desktop View](/assets/img/posts/2021-09-30-front-pulley-bracket/rivet_scrape_after.png)
+![Desktop View](/assets/img/posts/2021/2021-09-30-front-pulley-bracket/rivet_scrape_after.png)
 _The scrape caused by the rivet after the rivet was pushed back up_
 
 This also leaves the difficult problem of removing the rivet without causing more damage. Craig and I decided to think about this more over the next couple of days and try some of our ideas once we know for sure that the spar is still safe to use.

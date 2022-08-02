@@ -11,7 +11,7 @@ tags: [pulley bracket]
 
 We started the build today by using Craig's countersink cutter to countersink hole #24 on the rear spar reinforcement. We did this by first testing and adjusting the cutter depth using a scrap piece of aluminum and  only countersinking the actual part once we were happy with the depth. After this we once again used the pneumatic puller to pull the rivet and then were finally officially done with section 19[^section-19-ref].
 
-![Desktop View](/assets/img/posts/2021-12-02-rear-aileron-bracket/countersunk_rivet.jpg)
+![Desktop View](/assets/img/posts/2021/2021-12-02-rear-aileron-bracket/countersunk_rivet.jpg)
 _The countersunk rivet_
 
 # Rear Aileron Pulley Bracket
@@ -22,7 +22,7 @@ Hole #23 on the rear spar reinforcement cap was still un-drilled at this time si
 
 Once this was done, we positioned the bracket on the spar with the holes that need to be match drilled once again lined up. We also rotated the bracket until its edges were flush with the sides of the reinforcement capand then clamped it in place with a couple cleco clamps.
 
-![Desktop View](/assets/img/posts/2021-12-02-rear-aileron-bracket/bracket_clamped.jpg)
+![Desktop View](/assets/img/posts/2021/2021-12-02-rear-aileron-bracket/bracket_clamped.jpg)
 _The bracket clamped in place_
 
 We had previously drawn lines on the reinforcement cap between the holes so that we could make sure that we saw those lines through the pulley bracket holes before drilling; this would tell us that it was lines up correctly. Everything was looking good in this regard once we had it clamped down but we also double-checked the clearances using a small adjustable square.
@@ -31,14 +31,14 @@ After confirming that everything looked good we began drilling the holes. We sta
 
 After the bracket was completely installed we removed the pulley from the bracket and sanded it slightly so that it could spin. It can now move with just the pressure from a couple fingers but we may still work on it a bit more in the future to try to make it spin a bit more easily. It is definitely not a problem as-is though. This completed section 20[^section-20-ref] for the left wing and also means that the center structure is mostly done!
 
-![Desktop View](/assets/img/posts/2021-12-02-rear-aileron-bracket/bracket_installed.jpg)
+![Desktop View](/assets/img/posts/2021/2021-12-02-rear-aileron-bracket/bracket_installed.jpg)
 _The installed bracket_
 
 # Tool Modification
 
 Before calling it a day, Craig and I decided to work on modifying a rivet squeezing yoke and a #40 dimple die as specified in the beginning of the manual. This is needed in the next step in order to dimple the ribs for the rivets that join the rear and center ribs. Craig had brought his bench grinder over so we ground down these parts as far as we currently dare. Once the holes are match drilled in the parts we'll be able to hold the dimpler up to them and see if we took off enough material or if we'll need to grind off a bit more.
 
-![Desktop View](/assets/img/posts/2021-12-02-rear-aileron-bracket/modified_tools.jpg)
+![Desktop View](/assets/img/posts/2021/2021-12-02-rear-aileron-bracket/modified_tools.jpg)
 _The ground down squeezer yoke and dimple die_
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nCEbmL0ZwRk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

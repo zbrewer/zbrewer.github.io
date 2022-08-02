@@ -14,7 +14,7 @@ The only problem I ran into here was that an AN6-20A bolt was called for (v.s. a
 
 For now I just used an AN6-21A to get the alignment right while I reamed and bolted the rest of the holes. I covered it's end in masking tape to make it obvious I need to replace it and just tightened the other bolts until snug. I'll wait until this last bolt is installed and snug before I torque everything. Once this is done section 4 will be complete.
 
-![Desktop View](/assets/img/posts/2021-04-24-rear-lift-strut/installed_lift_strut.png)
+![Desktop View](/assets/img/posts/2021/2021-04-24-rear-lift-strut/installed_lift_strut.png)
 _Rear lift strut fitting with tape over incorrect bolt_
 
 # Prepared Double Ribs
@@ -29,12 +29,12 @@ After I pulled all of the parts, I lightly scuffed the surface of all 6 rib-halv
 
 The ribs were now ready to glue but the CubCrafters instructions for using the methacrylate (that I re-read several times) strongly recommended using a respirator when using the glue. I quickly ran out to Home Depot and bought one of those along with an additional clamp to help secure the ribs. The instructions for using the methacrylate gun were pretty basic but it effectively works like a fancy caulk gun with a special mixing tip.
 
-![Desktop View](/assets/img/posts/2021-04-24-rear-lift-strut/methacrylate_gun.png)
+![Desktop View](/assets/img/posts/2021/2021-04-24-rear-lift-strut/methacrylate_gun.png)
 _Methacrylate gun_
 
 After getting everything ready and priming the methacrylate gun (dispensing a 6+ inch segment), I laid down a thin bead of adhesive (as best I could) on one half of one double rib and then lined the other half up on top before clamping. A number of spring clamps ended up being very helpful for this as well. I tried to be very careful around the nose and tail rib flutes (as instructed). I repeated this process for each double rib and tried to wipe away any adhesive that did end up squeezing out.
 
-![Desktop View](/assets/img/posts/2021-04-24-rear-lift-strut/clamped_ribs.png)
+![Desktop View](/assets/img/posts/2021/2021-04-24-rear-lift-strut/clamped_ribs.png)
 _Clamped ribs_
 
 I left the ribs clamped overnight for the adhesive to cure. This completed section 5 of the manual.

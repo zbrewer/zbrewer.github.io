@@ -30,10 +30,10 @@ I realized that a pipe clamp would do exactly what we were trying to do and that
 
 Once the pipe clamps arrived it only took me about 15 or 20 minutes to get everything hooked up. There are thin strips of neoprene on the left and right side of the aftercooler to keep it from rubbing the belt-guard and small pieces under each corner where the pipe clamp would have contacted the compressor. This installation ended up going very smoothly and seems to hold the aftercooler to the compressor very tightly.
 
-![Desktop View](/assets/img/posts/2021-04-08-spar-fixtures-and-aftercooler/installed_aftercooler.png)
+![Desktop View](/assets/img/posts/2021/2021-04-08-spar-fixtures-and-aftercooler/installed_aftercooler.png)
 _Installed aftercooler_
 
-![Desktop View](/assets/img/posts/2021-04-08-spar-fixtures-and-aftercooler/neoprene_pipe_clamps.png)
+![Desktop View](/assets/img/posts/2021/2021-04-08-spar-fixtures-and-aftercooler/neoprene_pipe_clamps.png)
 _Neoprene under the pipe clamps_
 
 ## Plumbing
@@ -44,17 +44,17 @@ The fittings on the cooler itself are male AN-8 fittings but the compressor outl
 
 To keep things simple (and so that we could use swivel fittings) we used female AN-8 hose ends on the braided hose. This allowed us to go directly into the cooler with no adapters. On the compressor outlet side, on the other hand, we had to create a 90 degree adapter using a 1/2" SAE flare coupling, a 1/2" SAE flare to 1/2" NPT elbow, and an 1/2" NPT to AN-8 adapter.
 
-![Desktop View](/assets/img/posts/2021-04-08-spar-fixtures-and-aftercooler/compressor_outlet_adapter.png)
+![Desktop View](/assets/img/posts/2021/2021-04-08-spar-fixtures-and-aftercooler/compressor_outlet_adapter.png)
 _Compressor outlet adapter_
 
 The tank inlet used a 1/2" NPT to compression elbow and a compression fitting on the copper pipe. These had to be replaced with a 1/2" NPT street elbow and an NPT to AN-8 fitting. This was much simpler fitting wise but was very challenging to get to thanks to one of the compressor cylinders. Removing the old fittings and installing the new ones required using a basin wrench and some combination wrenches held at an angle.
 
-![Desktop View](/assets/img/posts/2021-04-08-spar-fixtures-and-aftercooler/tank_fitting.png)
+![Desktop View](/assets/img/posts/2021/2021-04-08-spar-fixtures-and-aftercooler/tank_fitting.png)
 _Tank fitting_
 
 Martha's dad, Billy, once again helped me get the hoses cut (wrapped duct tape around the cut line and used a fine-toothed hack saw) and the fittings installed. This took around an hour since the fittings were a bit challenging to get to.
 
-![Desktop View](/assets/img/posts/2021-04-08-spar-fixtures-and-aftercooler/aftercooler_hooked_up.png)
+![Desktop View](/assets/img/posts/2021/2021-04-08-spar-fixtures-and-aftercooler/aftercooler_hooked_up.png)
 _Aftercooler hooked up_
 
 Once all of the connections were made we were able to fire up to compressor to test it. Pressurizing from 0 PSI all the way to the pressure switch cutoff took about six and a half minutes, almost exactly what was required before the aftercooler installation. There was also an extremely noticeable difference between the compressor outlet temperature and the aftercooler outlet temperature so it seems like it is performing well.
@@ -67,7 +67,7 @@ Billy helped me construct these today too and we started by cutting two 5.5" wid
 
 We also cut four 6" sections of 2x4 (also left over from the crate) to hold the main spars and four 4" sections of 2x4 to hold the rear spars. We then screwed these to the MDF from underneath (using screws, you guessed it, left over from the crate) spaced appropriately for the spars. We used the first fixture as a bit of a template for the second fixture so that the spacing between the spars would be the same on both and everything would be roughly square. This took about an hour.
 
-![Desktop View](/assets/img/posts/2021-04-08-spar-fixtures-and-aftercooler/spar_fixtures.png)
+![Desktop View](/assets/img/posts/2021/2021-04-08-spar-fixtures-and-aftercooler/spar_fixtures.png)
 _Spar fixtures_
 
 [^wing-manual-ref]: Wing Manual (Extended Fuel), CCEX-004 Rev. 2.02, Page 26

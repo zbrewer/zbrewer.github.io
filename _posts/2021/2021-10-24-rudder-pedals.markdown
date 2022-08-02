@@ -17,7 +17,7 @@ The manual acknowledges this difficulty by saying that "You may need to spread t
 
 The manual offered no advice about how to spread the pedals so my grandfather and I came up with the idea to use a bolt with a nut on each end going through the holes where we needed to spread the pedal. Then we could turn the nuts to effectively lengthen the section of the bolt on the inside of the pedals and cause them to bend. We thought that the mechanical advantage this would provide would make things easy and that it would give us nice, precise control.
 
-![Desktop View](/assets/img/posts/2021-10-24-rudder-pedals/spreading_pedals.png)
+![Desktop View](/assets/img/posts/2021/2021-10-24-rudder-pedals/spreading_pedals.png)
 _Trying to spread a rudder pedal with a 1/4" bolt_
 
 Unfortunately, when we tried this using a 1/4" bolt, the pedal spread while tightening the nuts but returned to its original shape when they were loosened. This obviously didn't help. We ended up getting the pedals to bend some by over-tightening the nuts so that the metal didn't quite return to its original position. The problem, however, was that this just caused the material to bend outwards which increased the clearance at the top of the hole but not at the bottom (which was still very tight).
@@ -26,19 +26,19 @@ We needed to think about this some more and ended up clamping the pedal to the w
 
 Once we got the bottom pedal on the bracket the rest of the parts went together nicely. We had started with the rear pedals so we attached the master cylinder for the brakes to just the top (as instructed) and put on all of the fittings. I had a bit of trouble getting the plastic elbow into the "brake reservoir" (a short piece of plastic tubing) but my grandfather had the fantastic suggestion of holding the tube in a bit of boiling water for a few seconds. This softened it just enough that I was able to slide the pieces together without much difficulty.
 
-![Desktop View](/assets/img/posts/2021-10-24-rudder-pedals/finished_rear_pedal.png)
+![Desktop View](/assets/img/posts/2021/2021-10-24-rudder-pedals/finished_rear_pedal.png)
 _A fully-assembled rear rudder pedal_
 
 The next two pedals also went together fine (now that we knew the technique); unfortunately, the last pedal (front right), had a bit of a problem. The tube welded to the top of the bottom pedal section (that holds the bolt to connect the halves) was welded a bit off-center. Neither of us realized until we tried to assemble the two halves. The bolt didn't want to go through very easily although we were able to tap it through with a mallet. Only once we did that did we realize that the off-center weld caused the top pedal to be off-center enough that it contacted the bottom bracket and wouldn't move.
 
-![Desktop View](/assets/img/posts/2021-10-24-rudder-pedals/off_center_pedal.png)
+![Desktop View](/assets/img/posts/2021/2021-10-24-rudder-pedals/off_center_pedal.png)
 _The off-center weld causing the pedal halves to contact and not move_
 
 This unfortunately just meant that it was a bad part and that it will need to be replaced by CubCrafters. This is an easy fix although it was a bit of a pain to have three of the four pedals done and not be able to finish the last one.
 
 We did go ahead and completely finish the first three rudder pedals by applying the grip tape as shown in the manual. Unfortunately, even applying it as shown, we were about 8" short of being able to do all of the pedals so I will need a bit more of that from CubCrafters as well.
 
-![Desktop View](/assets/img/posts/2021-10-24-rudder-pedals/grip_tape.png)
+![Desktop View](/assets/img/posts/2021/2021-10-24-rudder-pedals/grip_tape.png)
 _Grip tape applied to a rudder pedal_
 
 Finally, before wrapping the completed pedals in bubble wrap and putting them away, I taped over the open fitting ends for the brake master cylinders with masking tape to prevent any dust or debris from getting in there while they are being stored.

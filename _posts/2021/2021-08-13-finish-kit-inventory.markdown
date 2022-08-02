@@ -11,7 +11,7 @@ Today I finished taking inventory of the parts shipped in the finish kit and mar
 
 The finish kit was fun to unpack since there were a lot of neat parts that I'll eventually get to use such as the seats and the brakes. I also received the power distribution kit that I had ordered which included more neat parts like the key and the primer. The power distribution kit didn't come with a packing list but I was able to compare the parts I received to a list of parts I had received in an email when I had inquired about what the kit included. Everything was there and in good condition.
 
-![Desktop View](/assets/img/posts/2021-08-13-finish-kit-inventory/power_distribution_kit.png)
+![Desktop View](/assets/img/posts/2021/2021-08-13-finish-kit-inventory/power_distribution_kit.png)
 _Some of the contents of the power distribution kit_
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kczfM4Pyaqc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

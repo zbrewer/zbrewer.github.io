@@ -12,10 +12,10 @@ The only two wrinkles here were that the back of the fuselage is extremely close
 
 As far as the bolts go, the 1/4" bolts I had didn't seem to fit so I quickly ran to HomeDepot and got some #12s to use instead. These certainly work but are definitely a bit loose. Craig was later able to get 1/4" bolts to fit on his tail (though he said they were tight) so I think I may not have actually had 1/4" bolts or I need to play with it a bit more.
 
-![Desktop View](/assets/img/posts/2021-05-24-fuselage-rotator/tail_on_rotator.png)
+![Desktop View](/assets/img/posts/2021/2021-05-24-fuselage-rotator/tail_on_rotator.png)
 _Tail mounted to the rotator_
 
 All that being said, the fuselage is now off the ground and should be easier to work with. It also let us get the wing rack (for the completed wings) into the garage and created a lot more room. I have a bit more organizing to do in the shop when I get a chance and then I can get back to the compression tube rivets.
 
-![Desktop View](/assets/img/posts/2021-05-24-fuselage-rotator/fuselage_on_rotators.png)
+![Desktop View](/assets/img/posts/2021/2021-05-24-fuselage-rotator/fuselage_on_rotators.png)
 _Fuselage on the rotators_
