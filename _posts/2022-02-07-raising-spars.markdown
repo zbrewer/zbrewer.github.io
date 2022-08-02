@@ -11,12 +11,12 @@ Today was a short session working on the plane. I got a cold and an ear infectio
 
 I bought a 2x2" (so actually 1.5x1.5") select pine board from my local hardware store to accomplish this task (I went with a select board so it would be a little smoother and more consistent). I then cut 4 5.5" long sections from it using a reciprocating saw and put one under each end of each spar. I also made sure to put the block on top of the 1" block that was already under the outboard rear spar. Since this raised each corner equally the washout angle (wing twist) should be preserved. I also used some clamps to try to keep everything in place.
 
-![Desktop View](/assets/img/posts/2022-02-07-raising-spars/wood_block.jpg)
+![Desktop View](/assets/img/posts/2022/2022-02-07-raising-spars/wood_block.jpg)
 _A wooden block under the front spar_
 
 Finally, I cleco'd the nose ribs onto the front spar (since I now had clecos available).
 
-![Desktop View](/assets/img/posts/2022-02-07-raising-spars/nose_ribs_clecod.jpg)
+![Desktop View](/assets/img/posts/2022/2022-02-07-raising-spars/nose_ribs_clecod.jpg)
 _The nose ribs cleco'd in place_
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UO7s5YrI0wQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

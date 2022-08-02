@@ -15,14 +15,14 @@ I began by drilling the final hole in the capstrip - a #40 hole through the caps
 
 The next step was to dimple all of the holes from the capstrip into the center rib so that they would accept countersunk solid rivets. Because the holes in the rib flare out, the squeezer/dimpler yoke wouldn't fit as it was. Instead, I used an angle grinder and a hand file to remove some more material so it could fit and the holes could be dimpled.
 
-![Desktop View](/assets/img/posts/2022-04-10-riveting-capstrip-5/modified_squeezer.jpg)
+![Desktop View](/assets/img/posts/2022/2022-04-10-riveting-capstrip-5/modified_squeezer.jpg)
 _The squeezer yoke with extra material removed so it would fit_
 
 After that was done, I dimpled all of the holes and the inserted/squeezed the solid rivets. This process took a long time because of the modification of the squeezer yoke, and the large number of rivets, but it was relatively straightforward.
 
 Once that was done, I verified that my countersink cage was set at the proper depth for 1/8" countersunk CherryMax rivets and countersunk the 3 holes in the machined rib as called for in the manual. I still need to pull these rivets once I'm able to borrow the CherryMax puller from Craig again. I also need to countersink the #40 hole in the capstrip/nose rib and install the rivet there, however, I'm waiting to do that until after I'm done countersinking for 1/8" rivets so that I don't have to adjust the countersink cage depth too many times.
 
-![Desktop View](/assets/img/posts/2022-04-10-riveting-capstrip-5/capstrip.jpg)
+![Desktop View](/assets/img/posts/2022/2022-04-10-riveting-capstrip-5/capstrip.jpg)
 _The capstrip with the solid rivets installed in the center rib_
 
 # Rib 1 Capstrips
@@ -33,7 +33,7 @@ It starts with rib #1 and provides the position of the capstrip as flush with th
 
 There are then a number of holes to match drill into the rib that will get countersunk and have CherryMax rivets installed. Unfortunately, the last hole position towards the front of the wing ends up being extremely close to the edge of the rib when I align the capstrip as prescribed (see the picture below). This is a bit too close so I decided to move on past this step and ask CubCrafters what the appropriate course of action is here. My guess is that I can trim a very small amount off the back of the capstrip so that I can shift it rearward a hair but I want to verify with them first.
 
-![Desktop View](/assets/img/posts/2022-04-10-riveting-capstrip-5/close_hole.jpg)
+![Desktop View](/assets/img/posts/2022/2022-04-10-riveting-capstrip-5/close_hole.jpg)
 _The front hole position in the #1 capstrip extremely close to an edge_
 
 The position of the capstrip on rib #3 is based on the position of the capstrip on rib #1 so I decided to move on yet again to section 33[^section-33-ref], installing the capstrip on the bottom of rib #1.

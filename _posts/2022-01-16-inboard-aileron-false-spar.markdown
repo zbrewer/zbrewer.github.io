@@ -17,27 +17,27 @@ At this point, my friends Zack and Kacey came over so that Zack could help with 
 
 The hole here on the very bottom went fine but one of the holes in the curved part caused a bit of trouble. The drill walked a bit as I started it and it made the hole in the sheet metal/false spar a bit oblong. Fortunately, the hole through the hanger itself was fine and still had enough edge clearance. The head of a stainless steel rivet also seems to cover the edge of the oblong section (just barely) which is also lucky. I went ahead and checked with Mark Keneston from CubCrafters as well as another local builder, Steve, who both thought that it would be okay. This also seems preferable to enlarging the hole further to use an oversized rivet.
 
-![Desktop View](/assets/img/posts/2022-01-16-inboard-aileron-false-spar/oblong_hole.jpg)
+![Desktop View](/assets/img/posts/2022/2022-01-16-inboard-aileron-false-spar/oblong_hole.jpg)
 _The hole that was made a bit oblong by a walking drill bit_
 
-![Desktop View](/assets/img/posts/2022-01-16-inboard-aileron-false-spar/oblong_hole_rivet.jpg)
+![Desktop View](/assets/img/posts/2022/2022-01-16-inboard-aileron-false-spar/oblong_hole_rivet.jpg)
 _The hole with a rivet test fitted_
 
 I was able to move on since I knew that this would at least work, even though it isn't ideal. That being said, I think I'm going to try to get a large flange (head) rivet with otherwise the same specs that will more fully cover the hole and provide better grip in this case.
 
 The other hole to be drilled in the curved section of the flap/aileron hanger also gave me some trouble since I couldn't figure out how to get a drill on it square to the piece I will be drilling. Even with the 45 degree head on an air angle drill and a very short bit the side of the piece seems to get in the way. A 90 degree head didn't seem to work any better.
 
-![Desktop View](/assets/img/posts/2022-01-16-inboard-aileron-false-spar/hard_to_drill_hole.jpg)
+![Desktop View](/assets/img/posts/2022/2022-01-16-inboard-aileron-false-spar/hard_to_drill_hole.jpg)
 _The hard to drill hole_
 
-![Desktop View](/assets/img/posts/2022-01-16-inboard-aileron-false-spar/drill_on_hole.jpg)
+![Desktop View](/assets/img/posts/2022/2022-01-16-inboard-aileron-false-spar/drill_on_hole.jpg)
 _The angle drill held out at a slight angle by the side of the hanger_
 
 In order to make the most of the time when I had a helper and since the two holes drilled and cleco'd on the aileron/flap hanger were enough to secure its position, we went ahead and moved on to drill the rest of the holes in ribs 6, 7, and 8 as instructed in the manual. At this point, the rivets were ready to be pulled so that we could temporarily install the aileron and move on to the outboard section of the false spar.
 
 Zack and Kacey had to leave at this point so I went ahead and drilled the top hole on the aileron/flap hanger and deburred all of the holes on my own. I decided to hold off on the final hole in the aileron/flap hanger until I could get some help from Craig (who had successfully drilled that hole on his build) and figured that I would wait for that hole to be drilled before pulling the rivets as well.
 
-![Desktop View](/assets/img/posts/2022-01-16-inboard-aileron-false-spar/inboard_false_spar.jpg)
+![Desktop View](/assets/img/posts/2022/2022-01-16-inboard-aileron-false-spar/inboard_false_spar.jpg)
 _The inboard flap false spar, mostly installed_
 
 Thanks for the help, Kacey and Zack!

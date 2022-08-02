@@ -9,7 +9,7 @@ tags: [rib clips]
 
 Craig and Kate came by for a little while at the beginning the day today so that I could get Craig to look at a couple of things. Together we first looked at the final rivet I needed to install for the aileron false spar into the aileron/flap hanger. We both decided that the larger head rivet would work better and I went ahead and pulled that. It ended up coming out really nicely - it completely covers the oblong hole and sits nice and flat.
 
-![Desktop View](/assets/img/posts/2022-02-21-finishing-clips/installed-rivet.jpg)
+![Desktop View](/assets/img/posts/2022/2022-02-21-finishing-clips/installed-rivet.jpg)
 _The final aileron false spar rivet installed_
 
 Craig also verified that he thought the hole positions for the rivets into machined tail rib #12 looked good and he helped me drill the holes for the side rivets using the angle drill. In order to do that, I first removed the parts and center-punched the hole position. I then drilled a pilot hole there with a #55 bit.
@@ -22,15 +22,15 @@ Craig left after these holes were drilled (thanks again for the help, Craig!) an
 
 With the holes countersunk all that was left to do was pull the rivets. I started with the side rivet in the machined tail rib using the offset puller head, then the countersunk rivet using the normal puller head, and finally the 2 front rivets (using the offset head for the rivet closest to the spar). These all pulled just fine and the back sides of the rivets in the machined tail rib had plenty of clearance to pull correctly without the need for any tricks.
 
-![Desktop View](/assets/img/posts/2022-02-21-finishing-clips/installed-clips-12.jpg)
+![Desktop View](/assets/img/posts/2022/2022-02-21-finishing-clips/installed-clips-12.jpg)
 _The clips fully installed and riveted on the #12 machined tail rib_
 
-![Desktop View](/assets/img/posts/2022-02-21-finishing-clips/shop-heads.jpg)
+![Desktop View](/assets/img/posts/2022/2022-02-21-finishing-clips/shop-heads.jpg)
 _The shop head side of the rivets in the machined tail rib_
 
 Finally, in order to finish section 24[^section-24-ref] of the manual, I countersunk the final rivet hole in the bottom of the #5 machined tail rib and installed the rivet using the same procedure. One thing to note is that I had to use Craig's countersink cage for this one since mine has a slightly larger diameter and sat up on the lip of the machined tail rib and therefore was not flat on the clip to be countersunk. This completely finished section 24[^section-24-ref].
 
-![Desktop View](/assets/img/posts/2022-02-21-finishing-clips/installed-clip-5.jpg)
+![Desktop View](/assets/img/posts/2022/2022-02-21-finishing-clips/installed-clip-5.jpg)
 _Clip installed fully on the underside of machined tail rib #5_
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r9TN49xILzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

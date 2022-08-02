@@ -19,7 +19,7 @@ I decided to wait on installing the rib bracing because another step (installing
 
 The two manual versions have you place the false rib in slightly different positions although 4 of the holes you drill to rivet it in place (2 in the side of the nose rib and 2 in the side of the tail rib) are the same. The new version of the manual also has you install a 3rd rivet into the nose rib where there is an extra tab on the back. The old manual already had me trim that off so I left out that rivet. Otherwise, I followed the placement guidance in the new manual and drilled all 4 holes using the angle drill.
 
-![Desktop View](/assets/img/posts/2022-04-09-false-rib-and-capstrip/false_rib_holes.jpg)
+![Desktop View](/assets/img/posts/2022/2022-04-09-false-rib-and-capstrip/false_rib_holes.jpg)
 _The holes drilled in the nose rib to hold the false rib_
 
 The new manual also calls for the false rib to be glued in with methacrylate (2-part epoxy) in addition to being riveted. Since that is a time-sensitive operation (applying the glue, installing the rivets, and clamping before the glue has time to set) I decided to leave the false-rib cleco'd in and finalize the installation when I could get someone to help me.
@@ -34,21 +34,21 @@ I clamped the capstrip to the machined rib, carefully marked the position of the
 
 After checking the position carefully, I drilled the hole through the clip/machined rib with a #55 bit and then enlarged it progressively with a #40 and then a #30. After that was done, I used it (and a hole I enlarged in the capstrip per the manual) to cleco the two pieces together. This aligned them correctly front-to-back.
 
-![Desktop View](/assets/img/posts/2022-04-09-false-rib-and-capstrip/machined_clip_hole.jpg)
+![Desktop View](/assets/img/posts/2022/2022-04-09-false-rib-and-capstrip/machined_clip_hole.jpg)
 _The hole drilled in the machined rib clip_
 
-![Desktop View](/assets/img/posts/2022-04-09-false-rib-and-capstrip/capstrip_aligned.jpg)
+![Desktop View](/assets/img/posts/2022/2022-04-09-false-rib-and-capstrip/capstrip_aligned.jpg)
 _The capstrip cleco'd to the rib through the hole meant for alignment_
 
 
 With that done, I made sure the capstrip was centered the rest of the way down the machined tail rib (my line was centered on the holes to match-drill and the end of the capstrip was centered on the rib) and clamped it in place. I then match-drilled the two remaining holes with a #30 bit and installed clecos.
 
-![Desktop View](/assets/img/posts/2022-04-09-false-rib-and-capstrip/machined_rib_holes.jpg)
+![Desktop View](/assets/img/posts/2022/2022-04-09-false-rib-and-capstrip/machined_rib_holes.jpg)
 _The remaining holes in the machined tail rib drilled and cleco'd (clamp still in place)_
 
 Finally, I used spring clamps to clamp the capstrip to the double rib and ensured that it was centered side-to-side the whole way. I then match drilled the holes in the center rib as described in the manual and cleco'd as I went. I also drilled the fabric rivet hole in the bottom clip that was called for already in the new manual.
 
-![Desktop View](/assets/img/posts/2022-04-09-false-rib-and-capstrip/holes_drilled.jpg)
+![Desktop View](/assets/img/posts/2022/2022-04-09-false-rib-and-capstrip/holes_drilled.jpg)
 _The rest of the holes for the capstrip drilled and cleco'd (with the spring clamps still in place)_
 
 These holes will still need to be dimpled and riveted but I ran out of time for the night at this point and will continue with this step next time I work on the plane.
