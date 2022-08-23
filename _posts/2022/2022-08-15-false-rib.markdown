@@ -1,0 +1,21 @@
+---
+layout: build_log_post
+title:  "Right Wing False Rib"
+hours: 1
+date:   2022-08-15 12:00:00 -0600
+categories: [Carbon Cub Build, Wings, Right Wing]
+tags: [false rib]
+---
+
+Craig came by today to help me with the last couple things I needed to do in the center section of the wing before moving on to the false spars. The first item on the list was the top, rear rivet in the #7 center rib. This is the rivet that interferes with one of the CherryMax rivets in the rear spar reinforcement cap. We started with this one because we thought it would be easy and just work (as it had done in both of our left wings). Unfortunately, the interference was worse on this wing than in either of the previous ones and the rivet stuck out quite far before we even began pulling it. This caused it to pull incorrectly while it was still sticking out the front side of the hole quite a bit. This rivet will obviously need to be drilled out and replaced but I don't think either task will be easy.
+
+![Desktop View](/assets/img/posts/2022/2022-08-15-false-rib/bad_rivet.jpg)
+_The bad rivet that needs to be replaced_
+
+We thought about some potential ideas for a while but I ultimately just decided that I'd have to work on drilling it out the next time I work on the plane and that I should check with CubCrafters for more installation tips.
+
+After that, we moved on to installing the false rib. This worked the same was as it had on the first wing I did except for the fact that leaving the nose rib just outboard of the #2 rib off for the time being allowed easy access with the CherryMax rivet puller and offset head. This meant we didn't have to use the hand puller and it did a great job. Getting this done finished section 35[^section-35-ref] of the manual.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/s2DRneEW1gc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[^section-35-ref]: Wing Manual (EX-2/EX-3) CK-KM301 Rev B, Section 35
