@@ -28,7 +28,6 @@ _The tail rib twisted slightly to get the false rib to lay flat_
 
 Even though I'm not completely sure about the false rib and therefore the #2 tail rib, I decided to go ahead and start installing the flap false spar. I clamped it in place and made sure that all of the tail ribs were square to the spar before proceeding. I then started match drilling rivet holes, per the manual[^section-37-ref], but skipped rib #2 for now (just leaving it clamped) in case I decide I need to replace it. I got through the top 3 rivets for each of the ribs other than the #2 rib but still need to go back and drill the bottoms. I also need to drill the holes for the 2 rivets into the machined tail rib (at rib #5) that are installed at this time. Once I make a final decision about rib #2 I can finish drilling these holes, debur, install the rivets, and finish section 37[^section-37-ref] of the manual.
 
-![Desktop View](/assets/img/posts/2022/2022-09-01-flap-false-spar-start/flap_false_spar.jpg)
-_The flap false spar partially drilled and cleco'd to the wing_
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K89-Qhp0XDc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [^section-37-ref]: Wing Manual (EX-2/EX-3) CK-KM301 Rev B, Section 37
