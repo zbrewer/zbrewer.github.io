@@ -179,7 +179,7 @@ If you will be doing any of your own wiring then there are some electrical tools
     * [Cable cutters](https://www.steinair.com/product/cable-coax-wire-cutter/). The curved blades work better for cutting large cables and coax without crushing them than diagonal cutters.
     * [Wire spoon](https://www.steinair.com/product/wire-spoon/). Used for threading wires into bundles.
     * [Flush cutters](https://www.amazon.com/dp/B005EXOF8Q).
-    * Heat gun. Used for heating solder sleeves and shrinking heat shrink tubing. You could get something nice and digitally controlled but a cheap heat gun works just fine. Just make sure it can reach 850&deg;F or so (depending on the solder sleeves you are using). I also highly recommend one that can sit hands free on the work bench while pointing straight up.
+* Heat gun. Used for heating solder sleeves and shrinking heat shrink tubing. You could get something nice and digitally controlled but a cheap heat gun works just fine. Just make sure it can reach 850&deg;F or so (depending on the solder sleeves you are using). I also highly recommend one that can sit hands free on the work bench while pointing straight up.
 
 # Optional/Quality of Life Tools
 These tools aren't strictly necessary since the build can be completed without them. That being said, they make certain steps easier and improve the build experience. I generally recommend them but you can pick-and-choose what makes the most sense to you.
