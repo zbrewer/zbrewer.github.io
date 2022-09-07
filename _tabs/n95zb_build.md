@@ -68,6 +68,9 @@ I didn't like the idea of exposed rudder cables in the extended baggage area so 
 ### Power distribution kit
 I'm planning on building my own panel but this kit helps with some of the basic harnesses and provides some necessities like the cabin heat control.
 
+### G3x Precover Parts
+This provides brackets and wires that are needed for the Garmin G3x system and that should be installed before the plane is covered. Even though I knew I wanted to make my own panel it was much easier to get all of these parts supplied than to have to track them down individually and/or risk missing something.
+
 ## Modifications
 
 ### Landing and wingtip lights
