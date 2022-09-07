@@ -3,7 +3,7 @@ layout: page
 title: Tools List
 ---
 
-This is a list of tools that I found valuable during the build. I'll try to keep it updated as I add more tools to my collection during the build process. Cub Crafters does supply a tool list at the beginning of the manual and, while the tools listed there are necessary, I found that they were not completely sufficient. Unless its use is obvious or it is included on the manual's tool list I'll try to provide some context as to where I used the tool and why I found it useful. I'll also try to break out tools that are not strictly necessary but are nice to have into a separate section.
+This is a list of tools that I found valuable during the build. I'll try to keep it updated as I add more tools to my collection during the build process. CubCrafters does supply a tool list at the beginning of the manual and, while the tools listed there are necessary, I found that they were not completely sufficient. Unless its use is obvious or it is included on the manual's tool list I'll try to provide some context as to where I used the tool and why I found it useful. I'll also try to break out tools that are not strictly necessary but are nice to have into a separate section. That being said, I tend to err on the side of buying more tools rather than making due with less so some people may disagree with my categorizations. My view is that messing up and replacing a part likely costs more in time and money than just getting the correct tool to begin with (although the correct tool obviously doesn't preclude mistakes completely).
 
 # Tool Suppliers
 While some more common tools (such as sockets and screwdrivers) can be bought through more traditional vendors, the following are all good places to buy a variety of aviation specific tools. If in doubt, these are good places to look. In no particular order:
@@ -97,6 +97,14 @@ There are a number of other tools, in addition to those mentioned in the kit abo
 * [Machinist square set](https://www.amazon.com/gp/product/B01D943R58). Used to ensure nose and tail ribs are square to the spar and for checking other areas larger squares won't fit.
 
 ## Clamping/Work Holding
+* [Cleco clamps](https://www.aircraft-tool.com/shop/detail.aspx?id=26EL). These come in handy to hold pieces together before drilling. They also come in a [1/2" variety](https://www.aircraft-tool.com/shop/detail.aspx?id=24EL) that is pretty useful. These use the same cleco pliers as mentioned above in the tool kit.
+* [Cleco "C" clamps](https://www.aircraft-tool.com/shop/detail.aspx?id=542). Similar to the above but when you need to clamp something over a lip or farther from an edge. Having a couple on hand doesn't hurt.
+* A [5/16" KHNL cleco](https://www.yardstore.com/khnl-hex-nut-draw-cleco-5-16-0-1) and a [1/4" KHNL cleco](https://www.yardstore.com/khnl-hex-nut-draw-cleco-1-4-0-1) to hold the fittings to the spar when reaming the holes.
+* [Irwin 6-SP clamps](https://www.acmetools.com/6-in-c-clamp-w-swivel-pads-6sp/038548000183.html). 6+ of these are good to have. A cheaper alternative can be used instead, if desired (Harbor Freight has some options). One or two [without the swivel pads](https://www.homedepot.com/p/Milwaukee-6-in-Torque-Lock-Locking-C-Clamp-with-Regular-Jaws-48-22-3532/205017711) is also useful for some applications.
+* Spring clamps. Cheap options from the local hardware store are fine. Despite what the tool list in the manual says, only a few 3" clamps are needed (I got 5). I'd instead get a large number of 2" clamps (maybe 20+ to start and more if needed) and a decent number of 1" clamps (10+) since they are quite useful as well.
+* [4" long nose locking pliers](https://www.amazon.com/dp/B0000BYD9A). I have about 8 of these and they're really handy when attaching the false spars on the wings. Wrap the jaws in friction tape (see below) to prevent marring. Again, a cheaper option could be used instead. A larger (6") pair is occasionally useful as well.
+* [Single handed trigger clamps](https://www.homedepot.com/b/Tools-Hand-Tools-Fastening-Tools-Clamps-Vises-Clamps/Trigger/N-5yc1vZc266Z1z0r0at) are frequently useful as well. I found them great for things like holding the rear spar reinforcement to the spar.
+* [Large clamp](https://www.homedepot.com/p/DEWALT-50-in-600-lb-Trigger-Clamp-w-3-75-in-Throat-Depth-DWHT83188/204988149) for clamping the spars together at the lift strut fittings. This ensures the tubes are bottomed out (and stay there) while match drilling the rivet holes.
 
 ## Riveting
 * [Marson HP-2 hand rivet puller](https://www.yardstore.com/installation-and-removal/rivet-pullers/hand-pop-riveter/heavy-duty-hand-pop-riveter). The standard hand rivet puller used throughout the build. It will be ground down in order to fit in some areas with tight clearance.
@@ -111,6 +119,7 @@ There are a number of other tools, in addition to those mentioned in the kit abo
 * [Torque wrench, 30-250 in/lbs](https://www.yardstore.com/cdi-torque-wrench-2502mrmh-3-8-drive-size). The entire 20-250 in/lbs range is needed so, if the torque wrench from the Cleaveland kit is acquired, the 150-250 in/lbs range must also be covered. Any quality tool may be used.
 * Socket drive adapter (if needed to adapt sockets to torque wrench).
 * Screwdriver set or bit driver and bits including at least #1 and #2 phillips.
+* Allen wrench set (especially for adjusting drill stops and tools).
 * [Small mallet](https://www.homedepot.com/p/Husky-12-oz-Hickory-2-Sided-Soft-Face-Mallet-N-H12AWYRHK/316881940) for use with pin punches when removing rivets.
 * Scissors.
 * Pliers. A general set is probably fine although needle nose are very useful to include. A pair of 45&deg; needle nose pliers is also great to have. I really like Knipex tools if buying new but anything basic will be completely fine.
@@ -123,6 +132,10 @@ There are a number of other tools, in addition to those mentioned in the kit abo
 * Small flashlight. Used with the inspection mirror to see tight areas.
 * [Fine point angle tweezers](https://www.amazon.com/Electronics-Experimental-Jewelry-Making-Non-Magnetic-TOWOT/dp/B09J97GHWY).
 * Angle or bench grinder for modifying tools (rivet puller, framing square, rivet squeezer yoke, etc.).
+* [Tubing cutter](https://www.amazon.com/gp/product/B00BU9K07S/) for fuel lines.
+* [Fabric pro iron](https://www.fabricprousa.com/product/fabric-pro-digital-iron/). For use during covering.
+* A cheap soldering iron for burning rivet holes in the fabric.
+* Wing/fuselage rotator. The Dropbox folder that contains the manual also contains some drawings for a rotator you could build yourself. If you're handy with a welder you could design/build one as well. [Bogert](https://bogertaviation.com/collections/fuselage-wing-rotators-maintenance-restoration/products/carbon-cub-rotator) also makes a rotator for this purpose that can be purchased new, although a long piece of steel must still be sourced locally. The rotator isn't needed until after the wings have been built so there is some time to source one after the kit arrives. I had some luck reaching out to previous builders and was even able to find one locally.
 
 ## Consumables
 * [Torque seal](https://www.aircraftspruce.com/catalog/cspages/crosschecktorqueseal.php).
@@ -137,16 +150,36 @@ There are a number of other tools, in addition to those mentioned in the kit abo
 * Shop towels (disposable) or paper towels. Recycled surgical towels are also useful for things like cleaning parts with denatured alcohol.
 * Rust-Oleum Protective Enamel Paint, Flat Black. If needed to touch up powder coat on the fuselage where it rubbed during shipping.
 * Razor blades.
-* Exacto knife blades (and handle).
+* Xacto knife blades (and [handle](https://www.amazon.com/Hobby-Excel-Blades-Safety-American/dp/B0006O5JHE)).
 * Masking tape.
 * Friction tape. Useful for wrapping around serrated tool jaws (like locking pliers) in order to prevent damage/marring of parts.
 * Disposable gloves. Useful to keep methacrylate off your hands when gluing parts together.
+* [Neutral cure silicone caulk](https://www.homedepot.com/p/GE-Supreme-Silicone-10-1-oz-Clear-Window-and-Door-Caulk-2709106/317089204). This is used to hold wires in the spar channels. Neutral cure is important so that it doesn't affect the aluminum.
+* Scrap sheet metal (from the hardware store is fine) for making shields and fixtures. Scrap wood is also useful for the same purpose.
 
 # Compressed Air System
 A compressed air system is optional depending on if any compressed air tools will be used and what the plans are for painting (an HVLP turbine system is an all-in-one alternative). That being said, a compressed air system is generally recommended and if one is going to be used the following are some recommended parts and accessories.
 
+* If using a compressed air system, an air compressor is an obvious requirement. I purchased a [Rolair 60 gallon compressor](https://www.acmetools.com/5-hp-230v-16cfm100psi-vertical-60-gall-compressor-v5160pt03xb/662865002577.html?) since I'm planning on using it for painting the plane as well but a smaller compressor would be fine if you're just using air tools. I'd caution against going too small though since it's nice when the compressor doesn't have to run very often, especially if it's inside the shop.
+* A [pressure regulator](https://www.rapidairproducts.com/shop/accessories/regulators-filters/inline-regulator-with-gauge) will also be needed with the compressor if it doesn't have one built in.
+* If the compressed air system will be used for painting, a series of filters will be needed as well. A [moisture separator](https://www.aircompressorsdirect.com/Tsunami-21999-0390/p11629.html), an [oil filter](https://www.aircompressorsdirect.com/Tsunami-21999-0390-Z-FD/p11634.html), a [desiccant dryer](https://shop.vanairsystems.com/point-of-use-compressed-air-dryer-id15-sw-15-scfm/), and another [filter](https://www.aircompressorsdirect.com/Tsunami-21999-0390-Z-FD/p11634.html) would be a good starting point (with the regulator after all of those).
+* I highly recommend using soldered copper pipe wherever possible if running hard compressed air lines in the shop. IT is safe, doesn't corrode, is easy to work with, and is safe (unlike PVC).
+* A [lightweight air hose kit](https://www.cleavelandtool.com/collections/pneumatic-accessories/products/lightweight-airhose-kit) or [manifold kit](https://www.cleavelandtool.com/collections/pneumatic-accessories/products/deluxe-airhose-and-manifold-block-kit) is great if using a lot of air tools. The hoses are a lot less intrusive and the quick disconnects are much smaller which makes a huge difference. The manifold is also nice to have when using a number of tools concurrently. See the discussion of the Cleaveland kit above.
+* [Air blow gun](https://www.northerntool.com/shop/tools/product_42497_42497) for cleaning off parts.
+
 # Electrical Tools
 If you will be doing any of your own wiring then there are some electrical tools that you will need. These are the tools I found useful but your needs may differ depending on the extent of the electrical work you will be doing.
+
+* Multimeter. This is mostly needed for testing DC voltage and resistance/continuity so something simple like [this](https://www.amazon.com/Fluke-101-Multimeter-Resistance-Capacitance/dp/B00HE6MIJY) would work just fine. Really anything with those features would be good although a buzzer for continuity testing is really nice (it beeps if the wires have a good electrical connection).
+* The following tools can be bought as part of the [panel technician tool kit from Stein](https://www.steinair.com/product/panel-technician-tool-kit/) or separately, if desired.
+    * [Ideal stripmaster wire strippers, 16-26 AWG](https://www.steinair.com/product/automatic-wire-stripper/). These are very nice but some wire stripper is required.
+    * [Ratcheting crimper](https://www.steinair.com/product/ratcheting-crimper-frame-only/). This is used for crimp-on connectors on wires and coax. The [terminal crimp die](https://www.steinair.com/product/insulated-terminal-die-only/) and the [coax crimp die](https://www.steinair.com/product/bnc-crimp-die-only/) are also needed.
+    * [Molex pin crimper](https://www.steinair.com/product/molex-open-barreled-pin-crimper/).
+    * [Molex pin extractor](https://www.steinair.com/product/molex-pin-extractor-for-sa-1023-thru-sa-1029-connector/).
+    * [Cable cutters](https://www.steinair.com/product/cable-coax-wire-cutter/). The curved blades work better for cutting large cables and coax without crushing them than diagonal cutters.
+    * [Wire spoon](https://www.steinair.com/product/wire-spoon/). Used for threading wires into bundles.
+    * [Flush cutters](https://www.amazon.com/dp/B005EXOF8Q).
+    * Heat gun. Used for heating solder sleeves and shrinking heat shrink tubing. You could get something nice and digitally controlled but a cheap heat gun works just fine. Just make sure it can reach 850&deg;F or so (depending on the solder sleeves you are using). I also highly recommend one that can sit hands free on the work bench while pointing straight up.
 
 # Optional/Quality of Life Tools
 These tools aren't strictly necessary since the build can be completed without them. That being said, they make certain steps easier and improve the build experience. I generally recommend them but you can pick-and-choose what makes the most sense to you.
@@ -158,9 +191,14 @@ These tools aren't strictly necessary since the build can be completed without t
     * CherryMAX H781-465 offset puller nose piece. There are some places where a standard B-465 nose piece is easier to use/works better (when it can reach) but there are a number of places that only the offset head can get to. Specifically, the CherryMAX rivets in the machined tail ribs seem to give lots of people trouble and the offset head pulls them with no drama. This tool can likely be sold for the same/a similar price to what was paid for it when the build is done. Since it helps prevent the need for replacing parts and makes the build much quicker and easier it is extremely highly recommended. The other option is to use the ground down Marson HP-2 hand puller with either a [pulling wedge](https://www.cleavelandtool.com/products/close-quarter-rivet-pulling-wedge?variant=18378218963006) (could be home made) or an angle ground in the nose piece. These options seem to also work but may take a few tries and some more pain.
 * [Knipex Pliers Wrench](https://www.amazon.com/Knipex-8603250-10-Inch-Pliers-Wrench/dp/B000X4KP1C?th=1). These perform a similar function to an adjustable wrench but work way better. They are also useful for bending pieces of sheet metal and grabbing soft parts since they have smooth, parallel jaws. The 7" size is the most versatile but the bigger and smaller ones are sometimes handy too.
 * [#10 Reamer](https://www.panamericantool.com/high-speed-steel-chucking-reamers.html). Useful for enlarging #20 holes to #10 size in sheet metal for nut plates (such as the center nut plate holes for the fuel tank covers). Large twist bits have a tendency to catch/gouge the sheet metal when enlarging while reamers do not.
+* [Blind rivet removal tool](https://aircraft-tool.com/shop/detail.aspx?id=1341S). Makes removing rivets easier and safer, especially if they are spinning and you can't reach it with pliers to hold it still.
 * [Ratcheting screwdriver](https://www.amazon.com/dp/B004VJY1FQ). Very optional but makes screw insertion/removal faster.
 * [Safety wire pliers](https://www.aircraftspruce.com/pages/to/safetywiretools/milbarwiretwister.php). It is possible to twist safety wire by hand but these make it faster and easier to get consistent results.
 * [Torque bit driver, 5-40 in/lbs](https://www.amazon.com/CDI-401SM-Adjustable-Screwdriver-40-Inch/dp/B001F7VJIO). Some screws (such as those for the floorboard) have prescribed torques so a torque driver can make it easier to install these correctly. Since the manual specifies 20-25 in/lbs for the floorboard screws it is also possible to use a [phillips bit driver](https://www.amazon.com/TEKTON-Drive-Phillips-Socket-SHB01202/dp/B07R7DBYSR) and a normal torque wrench to install them.
 * [Long (48") straightedge](https://www.harborfreight.com/48-in-aluminum-ruler-69365.html). This was useful to make sure that the nut plates on opposite sides of the fuel tank bay were lined up and for other times when a long straightedge was needed. A long box level, a piece of a board, or something similar could also be used.
 * Forceps. Especially those with a bent nose are occasionally useful for grabbing/holding small parts. Very optional though.
 * [Duckbill pliers](https://www.amazon.com/gp/product/B003RWS992/). Useful for safety wiring by hand and as general pliers with good grip.
+* [Utility cart](https://www.amazon.com/gp/product/B00FJUZY8Y). This is very optional but it is nice to be able to have tools near where you are working and it helps keep the workbench free of tools.
+* [Akro bins](https://www.amazon.com/gp/product/B00002NB5I/). These are very optional too but are great for holding clecos and other things.
+* [Label maker](https://www.bradyid.com/label-printers/bmp21-plus-portable-label-printer-pid-139535). It's really nice for labeling things in the shop and can also print labels on [heat shrink tubing](https://www.bradyid.com/labels/bmp21-plus-series-permasleeve-heat-shrink-tubing-cps-3392081?part-number=m21-187-c-342) which is fantastic for labeling wires if doing wiring yourself.
+* [Chip chaser](https://aircraft-tool.com/shop/detail.aspx?id=SP2005K). These are very thin and good for removing chips/burrs between two pieces of sheet metal when they can't be separated between drilling and riveting.
