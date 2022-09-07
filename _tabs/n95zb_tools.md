@@ -67,6 +67,8 @@ There are a number of other tools, in addition to those mentioned in the kit abo
 * High torque drill. This is necessary for reaming the bolt holes since the 4000RPM air drill (if purchased) is too fast and doesn't have enough torque. My 20V cordless drill worked fine for this although PAT makes a [high torque drill](https://www.panamericantool.com/nova-system-pneumatic-tools/novar-pistol-grip-drills/novar-900-rpm-high-torque-pistol-grip-drill.html) that is extremely nice, works great, and operates more smoothly.
 * Under-sized reamers for reaming bolt holes. Even with good technique, the reamers can slightly over-enlarge the bolt holes in the hinge blocks and lift strut fittings. The manual now recommends starting with a [0.249" reamer](https://www.mscdirect.com/product/details/30144521) for 1/4" holes and a [0.311" reamer](https://www.cleavelandtool.com/products/30-straight-flute-reamer?variant=31442214158398) for 5/16" holes. The larger reamers can be used if the bolts still do not fit; however, greasing the bolts with lithium grease and gently tapping allowed most of the bolts to be fully inserted with a tight fit. Using the larger reamers directly still works but does not create as tight of a fit.
 * Hole finders: [#10](https://www.yardstore.com/6-standard-hole-finder-10) and [1/4"](https://www.yardstore.com/6-standard-hole-finder-1-4).
+* [Automatic center punch](https://www.amazon.com/Starrett-18A-Automatic-Center-Adjustable/dp/B0006J4Q64/). Great for creating a small mark that helps prevent drill bits from walking when starting holes.
+* [#10 nut plate drilling jig](https://www.yardstore.com/nut-plate-jig-10-single-wing-standard-518j). 
 
 ## Cutting and Shaping
 * Rotary tool ([Dremel](https://www.dremel.com/us/en/product-categories/rotary) and/or [Die Grinder](https://www.amazon.com/Ingersoll-Rand-301B-Angle-Grinder/dp/B008JYRDEU)). I use my Dremel tool much more than the die grinder but both are useful and overall usage will depend somewhat on comfort level with each.
@@ -74,6 +76,8 @@ There are a number of other tools, in addition to those mentioned in the kit abo
     * A [non-ferrous carbide burr](https://www.panamericantool.com/nf-burs.html), such as the 30-372NF from PAT, is also useful for taking away larger amounts of material quickly. This is particularly helpful when shaping the diagonal cross tube for the wings but a file set and sanding drums on a Dremel could be used instead.
 * A set of files is also important for shaping sheet metal. Small "needle files" are extremely helpful for a lot of applications in addition to a rat's tail file and a flat file. More options here are better though and they definitely come in handy a lot.
 * Sandpaper. Used to debur edges and remove small nicks/scratches. Also used to remove less material when shaping than the files. 220 grit and 400 grit are useful and good starting points. A couple sheets go a long way.
+* [Hand nibbler](https://www.amazon.com/gp/product/B0002KRACO). Removes sheet metal slowly and precisely without deforming it.
+* Sheet metal shears.
 
 ## Deburring
 * [Small-hole deburring scraper](https://www.mcmaster.com/7815A21/). This is a somewhat specialized tool that is great for deburring the back of blind holes, such as those in the spar cap, that are in close quarters and can't be reached any other way. It wasn't immediately obvious what tool was needed to get to the backs of these holes but this does a great job. An [in/out deburring tool](https://www.panamericantool.com/carbide-burs/deburring-tools.html) could potentially also be used for this purpose. I don't have any experience with these but they need enough clearance between the hole and surrounding parts for the blade. They are also used with a drill so don't offer the fine manual control.
@@ -82,10 +86,23 @@ There are a number of other tools, in addition to those mentioned in the kit abo
 * [Scotch-Brite 7447 pads](https://www.homedepot.com/p/3M-3-7-8-in-x-6-in-x-5-16-in-9-84-cm-x-15-2-cm-x-0-79-cm-Very-Fine-220-Grit-Hand-Sanding-Pads-2-Pack-7447/301117170). Great for deburring sharp edges and in place of 220 grit sandpaper.
 
 ## Measuring and Marking
+* Sharpies (fine and very fine tips).
+* Tape measure (at least 16').
+* [Digital fish scale](https://www.amazon.com/dp/B07K6F9B86/). Used for setting the tension on the drag wires in thw wings and only needs to measure to 15 pounds.
+* [Digital level/protractor](https://aircraft-tool.com/shop/detail.aspx?id=ATS360). Used to ensure sawhorses are level during wing build and to rig the control surfaces. Should support re-calibration and be fairly accurate (I don't know the officially required spec but 0.1&deg; seems okay).
+* [Calipers, 0-6" range](https://www.amazon.com/Mitutoyo-Advanced-Absolute-Digital-Caliper/dp/B00WMKUUAQ). Digital is convenient although dial or vernier would be fine too. They don't need to be as nice as those linked here although I found I used them a lot and appreciated having a nice set.
+* [6" steel ruler](https://www.amazon.com/Starrett-C604RE-6-Tempered-Graduations-Thickness/dp/B0002FULFM). Something with 64th inch markings for precise measurement is useful. A 6" plastic ruler is also nice since it won't scratch aluminum. There were a few times a [12" ruler](https://www.amazon.com/Shinwa-Stainless-Machinist-Engineer-Graduations/dp/B00LYAJRAO) came in handy but it's not strictly necessary since a tape measure could typically be used.
+* [16x24" framing square](https://www.homedepot.com/p/Empire-16-in-x-24-in-Steel-Framing-Square-1110/100204103). Used when trammeling the wings.
+* [8x12" framing square](https://www.homedepot.com/p/Empire-8-in-x-12-in-Steel-Carpenter-Square-100/100148335). Useful to keep the machined tail ribs square to the spar since it fits better and can be clamped more easily than the larger square.
+* [Machinist square set](https://www.amazon.com/gp/product/B01D943R58). Used to ensure nose and tail ribs are square to the spar and for checking other areas larger squares won't fit.
 
 ## Clamping/Work Holding
 
 ## Riveting
+* [Marson HP-2 hand rivet puller](https://www.yardstore.com/installation-and-removal/rivet-pullers/hand-pop-riveter/heavy-duty-hand-pop-riveter). The standard hand rivet puller used throughout the build. It will be ground down in order to fit in some areas with tight clearance.
+* [Marson PRP26A offset rivet puller](https://www.erivet.com/product_detail.cfm?ID=ERIVET_48416993_77394169&itemtype=&srchtxt=PRP%2D26A&view=list&itemNbr=PRG%2D26A). Only used a couple times but there's really no other way to pull a few of the rivets in the machined ribs. This is a good tool to look for used.
+* [Pin punch set](https://www.homedepot.com/p/Dasco-Pro-Small-Pin-Punch-Set-3-Piece-34/100507476). At least 1/8" and 3/32" punches are needed for removing rivets.
+* [Rivet gauge set](https://www.yardstore.com/rivet-gauge-set-shop-head). This makes it much easier to ensure the shop heads on the rivets are acceptable. Although it's not strictly necessary it's recommended.
 
 ## Hand Tools
 * Socket set, 1/4" drive. At least 3/8" to 9/16". Standard chrome sockets are fine and deep sockets shouldn't be needed. 6 point sockets work, as do 12 point. 12 point sockets are more convenient since they offer more options for bolt positioning.
@@ -94,8 +111,18 @@ There are a number of other tools, in addition to those mentioned in the kit abo
 * [Torque wrench, 30-250 in/lbs](https://www.yardstore.com/cdi-torque-wrench-2502mrmh-3-8-drive-size). The entire 20-250 in/lbs range is needed so, if the torque wrench from the Cleaveland kit is acquired, the 150-250 in/lbs range must also be covered. Any quality tool may be used.
 * Socket drive adapter (if needed to adapt sockets to torque wrench).
 * Screwdriver set or bit driver and bits including at least #1 and #2 phillips.
+* [Small mallet](https://www.homedepot.com/p/Husky-12-oz-Hickory-2-Sided-Soft-Face-Mallet-N-H12AWYRHK/316881940) for use with pin punches when removing rivets.
+* Scissors.
+* Pliers. A general set is probably fine although needle nose are very useful to include. A pair of 45&deg; needle nose pliers is also great to have. I really like Knipex tools if buying new but anything basic will be completely fine.
+* Diagonal cutters. Similarly to the pliers, anything will work here for removing zip ties and similar tasks. A nicer pair, such as Knipex, may be nice if you plan on doing wiring as well.
 
 ## Miscellaneous Tools
+* Safety glasses.
+* [Respirator](https://www.homedepot.com/p/3M-OV-P95-Paint-Project-Reusable-Respirator-Mask-Size-Medium-6211PA1-A/100653900) for use with methacrylate glue and fabric coating materials.
+* Dental/inspection mirror. This is invaluable for checking the back of drilled holes and other hard to reach places.
+* Small flashlight. Used with the inspection mirror to see tight areas.
+* [Fine point angle tweezers](https://www.amazon.com/Electronics-Experimental-Jewelry-Making-Non-Magnetic-TOWOT/dp/B09J97GHWY).
+* Angle or bench grinder for modifying tools (rivet puller, framing square, rivet squeezer yoke, etc.).
 
 ## Consumables
 * [Torque seal](https://www.aircraftspruce.com/catalog/cspages/crosschecktorqueseal.php).
@@ -111,6 +138,12 @@ There are a number of other tools, in addition to those mentioned in the kit abo
 * Rust-Oleum Protective Enamel Paint, Flat Black. If needed to touch up powder coat on the fuselage where it rubbed during shipping.
 * Razor blades.
 * Exacto knife blades (and handle).
+* Masking tape.
+* Friction tape. Useful for wrapping around serrated tool jaws (like locking pliers) in order to prevent damage/marring of parts.
+* Disposable gloves. Useful to keep methacrylate off your hands when gluing parts together.
+
+# Compressed Air System
+A compressed air system is optional depending on if any compressed air tools will be used and what the plans are for painting (an HVLP turbine system is an all-in-one alternative). That being said, a compressed air system is generally recommended and if one is going to be used the following are some recommended parts and accessories.
 
 # Electrical Tools
 If you will be doing any of your own wiring then there are some electrical tools that you will need. These are the tools I found useful but your needs may differ depending on the extent of the electrical work you will be doing.
@@ -118,6 +151,16 @@ If you will be doing any of your own wiring then there are some electrical tools
 # Optional/Quality of Life Tools
 These tools aren't strictly necessary since the build can be completed without them. That being said, they make certain steps easier and improve the build experience. I generally recommend them but you can pick-and-choose what makes the most sense to you.
 
-* [#10 Reamer](https://www.panamericantool.com/high-speed-steel-chucking-reamers.html). Useful for enlarging #20 holes to #10 size in sheet metal for nutplates (such as the center nutplate holes for the fuel tank covers). Large twist bits have a tendency to catch/gouge the sheet metal when enlarging while reamers do not.
+* [Angle drill with flat offset head](https://www.panamericantool.com/nova-system-pneumatic-tools/nova-standard/novar-standard-flat-offset-angle-head.html). The 0.3 HP, 2800 RPM motor worked well for me (spindle gear drive). Some form of offset head drill is needed in order to drill some of the holes in the machined tail ribs. Some people use adapters that chuck in their standard pistol grip drills, however, I found this generally useful enough to be worth buying. Just on the wing along it was great for drilling the machined rib clips, rib braces, false rib, and more. The offset head seems to be more useful than the 90&deg; head or the 45&deg; head. It's also much easier to use than trying to flex 12" bits in most cases. This is a highly recommended tool.
+    * If this drill is purchased then some [threaded bits](https://www.panamericantool.com/threaded-shank-adapter-drills.html) are also needed. #30 and #40 are the most used but some smaller bits (#50/#60) are useful for making pilot holes. Long bits can take drill stops although they don't always fit everywhere needed. A variety of lengths is nice to have.
+    * [#30 threaded drill collet](https://aircraft-tool.com/shop/detail.aspx?id=503C-30). This allows chucking bits to be used with the offset angle drill. A jobber length bit with the offset head is perfect for drilling one of the fabric rivet holes in the #5 machined tail rib. A [#40 collet](https://aircraft-tool.com/shop/detail.aspx?id=503C-40) is also available.
+* CherryMAX G747 rivet puller. This is another expensive tool that is much better found used on Ebay or elsewhere. It does a great job pulling CherryMAX rivets though and has a very controlled pulling action that is much easier to control than other pullers. In addition to setting the rivets better, it also takes minimal effort (compared to a hand puller) leading to better outcomes when pulling many rivets in a row. The real killer feature of this puller though is the offset head (see below). Overall this is very highly recommended, despite the cost.
+    * CherryMAX H781-465 offset puller nose piece. There are some places where a standard B-465 nose piece is easier to use/works better (when it can reach) but there are a number of places that only the offset head can get to. Specifically, the CherryMAX rivets in the machined tail ribs seem to give lots of people trouble and the offset head pulls them with no drama. This tool can likely be sold for the same/a similar price to what was paid for it when the build is done. Since it helps prevent the need for replacing parts and makes the build much quicker and easier it is extremely highly recommended. The other option is to use the ground down Marson HP-2 hand puller with either a [pulling wedge](https://www.cleavelandtool.com/products/close-quarter-rivet-pulling-wedge?variant=18378218963006) (could be home made) or an angle ground in the nose piece. These options seem to also work but may take a few tries and some more pain.
+* [Knipex Pliers Wrench](https://www.amazon.com/Knipex-8603250-10-Inch-Pliers-Wrench/dp/B000X4KP1C?th=1). These perform a similar function to an adjustable wrench but work way better. They are also useful for bending pieces of sheet metal and grabbing soft parts since they have smooth, parallel jaws. The 7" size is the most versatile but the bigger and smaller ones are sometimes handy too.
+* [#10 Reamer](https://www.panamericantool.com/high-speed-steel-chucking-reamers.html). Useful for enlarging #20 holes to #10 size in sheet metal for nut plates (such as the center nut plate holes for the fuel tank covers). Large twist bits have a tendency to catch/gouge the sheet metal when enlarging while reamers do not.
 * [Ratcheting screwdriver](https://www.amazon.com/dp/B004VJY1FQ). Very optional but makes screw insertion/removal faster.
 * [Safety wire pliers](https://www.aircraftspruce.com/pages/to/safetywiretools/milbarwiretwister.php). It is possible to twist safety wire by hand but these make it faster and easier to get consistent results.
+* [Torque bit driver, 5-40 in/lbs](https://www.amazon.com/CDI-401SM-Adjustable-Screwdriver-40-Inch/dp/B001F7VJIO). Some screws (such as those for the floorboard) have prescribed torques so a torque driver can make it easier to install these correctly. Since the manual specifies 20-25 in/lbs for the floorboard screws it is also possible to use a [phillips bit driver](https://www.amazon.com/TEKTON-Drive-Phillips-Socket-SHB01202/dp/B07R7DBYSR) and a normal torque wrench to install them.
+* [Long (48") straightedge](https://www.harborfreight.com/48-in-aluminum-ruler-69365.html). This was useful to make sure that the nut plates on opposite sides of the fuel tank bay were lined up and for other times when a long straightedge was needed. A long box level, a piece of a board, or something similar could also be used.
+* Forceps. Especially those with a bent nose are occasionally useful for grabbing/holding small parts. Very optional though.
+* [Duckbill pliers](https://www.amazon.com/gp/product/B003RWS992/). Useful for safety wiring by hand and as general pliers with good grip.
