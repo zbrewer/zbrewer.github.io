@@ -53,20 +53,71 @@ If you decide not to buy the kit, here are the tools that came in mine that you 
 
 # Basic Tools
 There are a number of other tools, in addition to those mentioned in the kit above, that I would consider either necessary or extremely useful for the build.
+
+## Drilling
 * [Extra drill bits](https://www.panamericantool.com/cobalt-aircraft-drills-wire-gauge-number-sizes.html). I mentioned this briefly in the above section about the tool kit but you'll go through plenty of bits during the build so it is worth while to have extras on hand. In addition to not having to slow down to wait for new bits to be delivered, it help avoid the temptation to keep using a bit that is starting to get dull. The split point cobalt bits do work better and last longer so they are worth the extra cost. Pan American Tool Corporation makes my favorite bits but others work as well. The 12 packs from Aircraft Tool Supply are a good deal, especially for common bit sizes like #30 and #40 (I think they might actually be Pan American bits anyway). Jobber length bits are the most used but some of the longer bits have their place as well. The following are the most useful to buy/keep on hand:
     * [#30 cobalt jobber length bits](https://aircraft-tool.com/shop/detail.aspx?id=012-12K-30).
     * [#40 cobalt jobber length bits](https://aircraft-tool.com/shop/detail.aspx?id=012-12K-40). I didn't go through these quite as quickly but a 12 pack is probably still worth it.
     * [12" #30 cobalt bits](https://www.panamericantool.com/cobalt-aircraft-extension-drills-wire-sizes-12-overall-length.html). You'll use a number of the 12" bits as well.
     * [12" #40 cobalt bits](https://www.panamericantool.com/cobalt-aircraft-extension-drills-wire-sizes-12-overall-length.html).
     * [#55 cobalt jobber length bits](https://www.aircraft-tool.com/shop/detail.aspx?PRODUCT_ID=012-12K-55). These are optional but highly recommended since I found them to be the perfect size for drilling pilot holes. Drill bits have a tendency to walk when starting a hole with a larger size (#30 or #40), even when using a split point bit and a center punch to create a starting point. #55 bits are much easier to control and stay in the punched position very well. The holes can then be enlarged with much less of a tendency for the bits to wander.
+* [1/4" cobalt drill bit](https://aircraft-tool.com/shop/detail.aspx?id=012-1%2f4). Used to enlarge the holes in a few of the tank extension straps.
+* [Drill stops](https://www.yardstore.com/air-capital-drill-stop-5-piece-set). These are used all the time to prevent drill bits from marring the material behind holes to be drilled (such as preventing the bit from contacting the spar web when drilling through the side of the spar cap). Extra #30 and #40 drill stops are also nice to have as they are the most commonly used.
+* [Spar drill jig](https://www.aircraft-tool.com/shop/detail.aspx?id=AE1145). Ensures that you are drilling the spar cap in the right spot and not hitting the bulb when drilling holes for the leading edge skins and the tank extension skins. It is technically possible to measure carefully and do this by hand without the jig; however, the likelihood of the bit walking is greatly increased and any poorly placed hole that hits the bulb could ruin the spar and require its replacement. To me this tool seems like money well spent.
+* High torque drill. This is necessary for reaming the bolt holes since the 4000RPM air drill (if purchased) is too fast and doesn't have enough torque. My 20V cordless drill worked fine for this although PAT makes a [high torque drill](https://www.panamericantool.com/nova-system-pneumatic-tools/novar-pistol-grip-drills/novar-900-rpm-high-torque-pistol-grip-drill.html) that is extremely nice, works great, and operates more smoothly.
+* Under-sized reamers for reaming bolt holes. Even with good technique, the reamers can slightly over-enlarge the bolt holes in the hinge blocks and lift strut fittings. The manual now recommends starting with a [0.249" reamer](https://www.mscdirect.com/product/details/30144521) for 1/4" holes and a [0.311" reamer](https://www.cleavelandtool.com/products/30-straight-flute-reamer?variant=31442214158398) for 5/16" holes. The larger reamers can be used if the bolts still do not fit; however, greasing the bolts with lithium grease and gently tapping allowed most of the bolts to be fully inserted with a tight fit. Using the larger reamers directly still works but does not create as tight of a fit.
+* Hole finders: [#10](https://www.yardstore.com/6-standard-hole-finder-10) and [1/4"](https://www.yardstore.com/6-standard-hole-finder-1-4).
+
+## Cutting and Shaping
 * Rotary tool ([Dremel](https://www.dremel.com/us/en/product-categories/rotary) and/or [Die Grinder](https://www.amazon.com/Ingersoll-Rand-301B-Angle-Grinder/dp/B008JYRDEU)). I use my Dremel tool much more than the die grinder but both are useful and overall usage will depend somewhat on comfort level with each.
     * [Cutoff wheels](https://www.dremel.com/gn/en/p/dremel-ez-lock-thin-cut-off-wheel-ez409-v743) and [sanding drums](https://www.dremel.com/gn/en/p/dremel-ez-speedclic-sanding-mandrel-sanding-bands-sc407-v494) are very useful for shaping sheet metal parts and deburring edges quickly.
     * A [non-ferrous carbide burr](https://www.panamericantool.com/nf-burs.html), such as the 30-372NF from PAT, is also useful for taking away larger amounts of material quickly. This is particularly helpful when shaping the diagonal cross tube for the wings but a file set and sanding drums on a Dremel could be used instead.
 * A set of files is also important for shaping sheet metal. Small "needle files" are extremely helpful for a lot of applications in addition to a rat's tail file and a flat file. More options here are better though and they definitely come in handy a lot.
 * Sandpaper. Used to debur edges and remove small nicks/scratches. Also used to remove less material when shaping than the files. 220 grit and 400 grit are useful and good starting points. A couple sheets go a long way.
 
+## Deburring
+* [Small-hole deburring scraper](https://www.mcmaster.com/7815A21/). This is a somewhat specialized tool that is great for deburring the back of blind holes, such as those in the spar cap, that are in close quarters and can't be reached any other way. It wasn't immediately obvious what tool was needed to get to the backs of these holes but this does a great job. An [in/out deburring tool](https://www.panamericantool.com/carbide-burs/deburring-tools.html) could potentially also be used for this purpose. I don't have any experience with these but they need enough clearance between the hole and surrounding parts for the blade. They are also used with a drill so don't offer the fine manual control.
+* [Back side deburring blade](https://www.mcmaster.com/4289A41/). For holes with bigger burrs and less tight tolerances, this can be a great way to debur the back.
+* Dental picks. These are great for removing burrs from the back of holes when you just need something to bend it back and forth a bit. Plastic picks are also great since they won't scratch the aluminum. As many varieties as possible is nice since there are some very tight spots in the spars and it helps to have more options.
+* [Scotch-Brite 7447 pads](https://www.homedepot.com/p/3M-3-7-8-in-x-6-in-x-5-16-in-9-84-cm-x-15-2-cm-x-0-79-cm-Very-Fine-220-Grit-Hand-Sanding-Pads-2-Pack-7447/301117170). Great for deburring sharp edges and in place of 220 grit sandpaper.
+
+## Measuring and Marking
+
+## Clamping/Work Holding
+
+## Riveting
+
+## Hand Tools
+* Socket set, 1/4" drive. At least 3/8" to 9/16". Standard chrome sockets are fine and deep sockets shouldn't be needed. 6 point sockets work, as do 12 point. 12 point sockets are more convenient since they offer more options for bolt positioning.
+* 1/4" socket extensions. At least one 6" extension is useful.
+* SAE Combination wrench set.
+* [Torque wrench, 30-250 in/lbs](https://www.yardstore.com/cdi-torque-wrench-2502mrmh-3-8-drive-size). The entire 20-250 in/lbs range is needed so, if the torque wrench from the Cleaveland kit is acquired, the 150-250 in/lbs range must also be covered. Any quality tool may be used.
+* Socket drive adapter (if needed to adapt sockets to torque wrench).
+* Screwdriver set or bit driver and bits including at least #1 and #2 phillips.
+
+## Miscellaneous Tools
+
+## Consumables
+* [Torque seal](https://www.aircraftspruce.com/catalog/cspages/crosschecktorqueseal.php).
+* [Lithium grease](https://www.napaonline.com/en/p/SLCSL3151#).
+* Loctite #271 (red)
+* Loctite #242 (blue)
+* Loctite 657
+* Loctite 680
+* [EZ Turn](https://www.aircraftspruce.com/catalog/cspages/ezturnlube.php) lubricant.
+* [Boelube](https://aircraft-tool.com/shop/detail.aspx?id=BL90) cutting fluid. Used for reaming and drilling holes. Liquid tends to be the easiest to use.
+* Denatured alcohol (for part clean-off). A small spray bottle makes its use easier.
+* Shop towels (disposable) or paper towels. Recycled surgical towels are also useful for things like cleaning parts with denatured alcohol.
+* Rust-Oleum Protective Enamel Paint, Flat Black. If needed to touch up powder coat on the fuselage where it rubbed during shipping.
+* Razor blades.
+* Exacto knife blades (and handle).
+
 # Electrical Tools
 If you will be doing any of your own wiring then there are some electrical tools that you will need. These are the tools I found useful but your needs may differ depending on the extent of the electrical work you will be doing.
 
 # Optional/Quality of Life Tools
 These tools aren't strictly necessary since the build can be completed without them. That being said, they make certain steps easier and improve the build experience. I generally recommend them but you can pick-and-choose what makes the most sense to you.
+
+* [#10 Reamer](https://www.panamericantool.com/high-speed-steel-chucking-reamers.html). Useful for enlarging #20 holes to #10 size in sheet metal for nutplates (such as the center nutplate holes for the fuel tank covers). Large twist bits have a tendency to catch/gouge the sheet metal when enlarging while reamers do not.
+* [Ratcheting screwdriver](https://www.amazon.com/dp/B004VJY1FQ). Very optional but makes screw insertion/removal faster.
+* [Safety wire pliers](https://www.aircraftspruce.com/pages/to/safetywiretools/milbarwiretwister.php). It is possible to twist safety wire by hand but these make it faster and easier to get consistent results.
