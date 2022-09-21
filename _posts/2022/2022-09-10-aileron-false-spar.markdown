@@ -23,8 +23,8 @@ At this point, the manual called for installing the aileron to set the outboard 
 ![Desktop View](/assets/img/posts/2022/2022-09-10-aileron-false-spar/bracket_gap.jpg)
 _The center aileron hanger brackets with a gap between the parts_
 
-From here, we took the aileron off the wing and checked the overlapping section of the false spar with the spacing jig. We then match-drilled the holes for the overlap at rib 9 and the holes in the curved section of the false spar in the outboard aileron hanger. We puled these two rivets in the outboard hanger but then ran out of time for the day. This almost completed section 37[^section-37-ref] of the manual but there is still a little work left to do in order to complete that section/the aileron false spar.
+From here, we took the aileron off the wing and checked the overlapping section of the false spar with the spacing jig. We then match-drilled the holes for the overlap at rib 9 and the holes in the curved section of the false spar in the outboard aileron hanger. We puled these two rivets in the outboard hanger but then ran out of time for the day. This almost completed section 40[^section-40-ref] of the manual but there is still a little work left to do in order to complete that section/the aileron false spar.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/60h2HUP72RY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[^section-37-ref]: Wing Manual (EX-2/EX-3) CK-KM301 Rev B, Section 37
+[^section-40-ref]: Wing Manual (EX-2/EX-3) CK-KM301 Rev B, Section 37
