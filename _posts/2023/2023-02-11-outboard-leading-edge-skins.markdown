@@ -1,0 +1,24 @@
+---
+layout: build_log_post
+title:  "Outboard Leading Edge Skins"
+hours: 6.2
+date:   2023-02-11 12:00:00 -0600
+categories: [Carbon Cub Build, Wings, Right Wing]
+tags: [leading edge skins]
+---
+
+Today was a long but productive day of working on the skins. It started with Craig coming back over so we could finish the top row of rivets. He didn't quite like the way the bottom of his landing light housing had come out before gluing the housing in so we put the clamps on to drill the top row of that skin on my wing. It came out similarly to his (maybe slightly better) so we're not sure that was worth it or that it helped - it definitely didn't hurt though.
+
+After that, we moved on to the final skin in the fuel tank bay. We were both a bit more worried about this one since we were not only transferring marking of what were effectively intermediate ribs onto the skin but we were also drilling them even farther away from the spar, introducing more opportunity for error. This had gone okay on Craig's wing but we had issues with this on mine and didn't quite trust it. Craig then came up with a brilliant solution: pre-drill the holes in the nose ribs and drill them from below with a 12" bit, just like the middle row of rivets. The only reason this wasn't done on the other skins is because the rivets are too high up (above the spar) so you can't get to them. We test fit a 12" bit and it seemed like it would all work fine but, just to be safe, we pre-drilled the easiest nose rib to replace (not attached to anything other than the spar), put the skin on, and drilled it from below. This worked great so we took the skin back off and pre-drilled the rest of the ribs. The only one that was a bit different was the #1 rib since the hole had to go through the capstrip as well. This wasn't bad though since we clamped the capstrip to the rib before drilling and measured the distance from the side carefully. After that, it was relatively straightforward and the top row of rivet holes was done!
+
+At this point, Craig left for the day and I began finishing the rest of the rivets in each skin. I started at the outboard most skin and installed the clamps, near but not on the ribs, made sure there was no weird extra slack or gaps between the ribs and skin (as best as I could tell with the PVC in there), and then pulled rivets in the top row to prevent any movement before drilling the next row. In general, I used 5 of the 6 clamps on each skin with one clamp being reserved for the most inboard position on the previous skin. I also used a piece of masking tape on the most inboard rivet and stretched across the bottom ot the skin/spar in order to remind myself not to drill the most inboard hole until I started on the next skin.
+
+With the clamps in place and the top row riveted on each skin, I then moved to the middle row and, once again from the middle of the skin out, drilled and cleco'd each hole using a 12" #30 bit. The predrilled holes made this part easy, other than some interesting contortions to be able to reach everything. After this row was drilled, I riveted it and moved on to the bottom.
+
+The bottom row of rivets was a bit more of a pain since I had to work upside down and wanted to be careful to not drill a hole in the wrong spot. The new manual specifies drilling these holes 3.2" from the spar but I checked the old manual and it used a measurement of 0.35" from the edge of the skin. This made more sense to me since the edge distance from the skin is what matters here and it was easier to measure. I did end up checking and these come out in the same spot so I decided to use the 0.35" measurement since it was easier. For each of these holes, I used a long, flexible ruler to mark the centerline of the rib and then marked the 0.35" out from the edge on this line. After sanity checking and making sure this looked good, I center punched the hole location. Finally, I drilled with a #55 (if clearance from the clamps allowed) in order to make sure the bit wouldn't walk and to check edge distance before enlarging with a #40. In spots where this wasn't possible a 6" #40/#30 pair worked fine. I did learn that, with the piloted holes, it was important to pull a chip chaser between the pieces of sheet metal afterwards in order to make sure there is nothing in there. I had pulled a couple of rivets before realizing this but, fortunately, they were easy to drill out.
+
+I was able to complete this process for the two most outboard skins before calling it a night.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vmlA7iNazbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[^section-49-ref]: Wing Manual (EX-2/EX-3) CK-KM301 Rev B, Section 49
