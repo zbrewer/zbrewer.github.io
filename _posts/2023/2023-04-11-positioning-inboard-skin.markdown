@@ -1,6 +1,6 @@
 ---
 layout: build_log_post
-title:  "POsitioning the Inboard Leading Edge Skin"
+title:  "Positioning the Inboard Leading Edge Skin"
 hours: 2.2
 date:   2023-04-11 12:00:00 -0600
 categories: [Carbon Cub Build, Wings, Left Wing]
