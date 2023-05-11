@@ -4,7 +4,7 @@ title:  "Fuel Tank Corner Nutplates"
 hours: 5.6
 date:   2023-02-20 12:00:00 -0600
 categories: [Carbon Cub Build, Wings, Right Wing]
-tags: [leading edge skins]
+tags: [nutplates]
 ---
 
 I started today by finishing the installation of the landing light housing[^section-51-ref]. I removed the clamps and checked the glue, which had dried well. After that, I countersunk and pulled the rivets in the top row of holes I had drilled earlier, as described in the manual. This finished the installation.
