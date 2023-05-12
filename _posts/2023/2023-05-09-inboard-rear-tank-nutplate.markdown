@@ -19,5 +19,7 @@ After the center hole was drilled at a 3/16 size, I then enlarged it further to 
 ![Desktop View](/assets/img/posts/2023/2023-05-09-inboard-rear-tank-nutplate/nutplate_jig.jpg)
 _The nutplate jig can't sit flat when drilling the second #40 hole_
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x8OQH18twZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 [^section-51-ref]: Wing Manual (EX-2/EX-3) CK-KM301 Rev B, Section 51
 [^section-57-ref]: Wing Manual (EX-2/EX-3) CK-KM301 Rev B, Section 57
