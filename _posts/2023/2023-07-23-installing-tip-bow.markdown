@@ -13,13 +13,14 @@ Craig came by again today and helped me install the wingtip bow on my left wing.
 
  After that, we re-positioned the tip bow and installed the clecos in the leading edge. We checked its alignment several more times before using a hole finder to match drill a hole into the tip bow that lined up with the hole in the machined rib for the brace (make sure the hole finder is placed through both the rib and the brace). With that done, we installed a cleco in the hole and used the same hole finder to drill the bottom rear hole too. We repeated this procedure for the top rear, then the top front, installing clecos as we went.
 
+ ![Desktop View](/assets/img/posts/2023/2023-07-23-installing-tip-bow/drilling_tip_bow_trailing_edge.jpg)
+_The setup for match drilling the tip bow trailing edge using the hole finder_
+
  Once the tip bow was match drilled to the machined tail rib, we clamped it to the outboard rib where they overlapped before match drilling and cleco'ing the final holes, as described in section 56[^section-56-ref].
 
  Finally, we removed all of the clecos and the tip bow, cleaned all of the parts thoroughly, and then glued the tip bow in place per section 56[^section-56-ref]. We installed all of the rivets immediately, starting on the leading edge, then the trailing edge, then the outboard rib. Last but not least, we added the extra methacrylate to fill the gaps, as indicated in the manual.
 
  This completed section 55. Final trimming of the tip bow must be completed before section 56 is done.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hbz7jHA7HaM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [^section-55-ref]: Wing Manual (EX-2/EX-3) CK-KM301 Rev B, Section 55
 [^section-56-ref]: Wing Manual (EX-2/EX-3) CK-KM301 Rev B, Section 56
