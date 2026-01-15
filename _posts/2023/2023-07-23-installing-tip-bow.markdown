@@ -1,7 +1,7 @@
 ---
 layout: build_log_post
 title:  "Installing Tip Bow"
-hours: 0
+hours: 4.5
 date:   2023-07-23 12:00:00 -0600
 categories: [Carbon Cub Build, Wings, Left Wing]
 tags: [wingtip]
@@ -21,6 +21,8 @@ _The setup for match drilling the tip bow trailing edge using the hole finder_
  Finally, we removed all of the clecos and the tip bow, cleaned all of the parts thoroughly, and then glued the tip bow in place per section 56[^section-56-ref]. We installed all of the rivets immediately, starting on the leading edge, then the trailing edge, then the outboard rib. Last but not least, we added the extra methacrylate to fill the gaps, as indicated in the manual.
 
  This completed section 55. Final trimming of the tip bow must be completed before section 56 is done.
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/IlIduPyKMuI?si=xnlf1FO22br6E9nl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [^section-55-ref]: Wing Manual (EX-2/EX-3) CK-KM301 Rev B, Section 55
 [^section-56-ref]: Wing Manual (EX-2/EX-3) CK-KM301 Rev B, Section 56
